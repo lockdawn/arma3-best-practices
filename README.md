@@ -22,6 +22,7 @@ arma3-best-practices/
 │   └── README.md             # Documentación completa del módulo CHVD
 │
 └── README.md                 # Este documento (root)
+```
 
 Cada carpeta del repositorio representa un módulo, sistema o tema técnico, y contiene:
 
