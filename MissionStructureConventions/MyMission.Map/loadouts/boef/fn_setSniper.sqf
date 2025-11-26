@@ -1,1 +1,1 @@
-fn_setSniper.sqf
+// fn_setSniper.sqf
