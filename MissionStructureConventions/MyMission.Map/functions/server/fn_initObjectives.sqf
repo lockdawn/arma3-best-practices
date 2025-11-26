@@ -1,1 +1,1 @@
-fn_initObjectives.sqf
+// fn_initObjectives.sqf
