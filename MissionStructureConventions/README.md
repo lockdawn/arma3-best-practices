@@ -30,7 +30,7 @@ Estos archivos, si existen **en la raíz de la misión**, el motor los ejecuta a
 
 ---
 
-# 2. Carpetas recomendadas (estándar FEL)
+# 2. Carpetas recomendadas
 
 Arma 3 permite carpetas personalizadas, por lo que se recomienda un orden profesional, modular y fácil de entender.
 
@@ -152,5 +152,6 @@ Este estándar permite:
 - Evitar nombres inconsistentes, carpetas improvisadas y archivos en la raíz.
 - Reutilizar módulos y funciones fácilmente.
 - Mantener misiones limpias, estables y fáciles de debuggear.
+
 
 
