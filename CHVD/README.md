@@ -34,7 +34,7 @@ Afecta edificios, vehículos, unidades, etc.
 
 ---
 
-## ❓ ¿Es correcto configurar CHVD en `init.sqf`?
+## Configurar CHVD en `init.sqf`❓
 
 Funcionar, **sí funciona**.  
 Pero **no es recomendable**, especialmente en multijugador.
@@ -98,8 +98,7 @@ Porque:
 
 ## 🧩 Script recomendado (comentado)
 
-Guárdalo en:  
-**`initPlayerLocal.sqf`**
+Archivo: **`initPlayerLocal.sqf`**
 
 ```sqf
 /*
