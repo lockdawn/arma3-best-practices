@@ -8,7 +8,7 @@ Se debe utilizar una **estructura uniforme, ordenada y profesional** para organi
 
 Estos archivos, si existen **en la raíz de la misión**, el motor los ejecuta automáticamente en diferentes momentos.
 
-## Inicialización
+## Inicialización del Servidor
 | Archivo | Ejecución | Uso recomendado |
 |--------|-----------|-----------------|
 | **init.sqf** | Una vez por máquina (cliente/servidor) | Config global ligera (hoy se prefiere evitarlo y usar init específicos). |
@@ -152,4 +152,5 @@ Este estándar permite:
 - Evitar nombres inconsistentes, carpetas improvisadas y archivos en la raíz.
 - Reutilizar módulos y funciones fácilmente.
 - Mantener misiones limpias, estables y fáciles de debuggear.
+
 
