@@ -1,6 +1,6 @@
 # Estándar de Estructura de Misión para Arma 3  
 
-Se debe definir una **estructura uniforme, ordenada y profesional** para organizar misiones de Arma 3. El objetivo es evitar desorden, nombres inconsistentes y recursos tirados en la raíz, y ofrecer un estándar claro para cualquier editor.
+Se debe utilizar una **estructura uniforme, ordenada y profesional** para organizar misiones de Arma 3. El objetivo es evitar desorden, nombres inconsistentes y recursos tirados en la raíz, y ofrecer un estándar claro para cualquier editor.
 
 ---
 
@@ -152,3 +152,4 @@ Este estándar permite:
 - Evitar nombres inconsistentes, carpetas improvisadas y archivos en la raíz.
 - Reutilizar módulos y funciones fácilmente.
 - Mantener misiones limpias, estables y fáciles de debuggear.
+
