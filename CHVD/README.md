@@ -10,7 +10,7 @@ Este documento explica **qué hacen las variables de CHVD**, si es correcto conf
 
 ---
 
-## 🔍 ¿Qué es CHVD?
+## ¿Qué es CHVD?
 
 **CH View Distance (CHVD)** es un mod que permite a cada jugador ajustar:
 
@@ -18,12 +18,11 @@ Este documento explica **qué hacen las variables de CHVD**, si es correcto conf
 - Distancia de renderizado de objetos (Object View Distance)
 - Nivel de vegetación (Grass settings)
 
-Estas configuraciones son *100% cliente*, es decir:  
-👉 afectan solo al jugador, no al servidor ni a la simulación.
+Estas configuraciones son *100% cliente*, es decir: Afectan solo al jugador, no al servidor ni a la simulación.
 
 ---
 
-## 🔧 Variables principales de CHVD
+## Variables principales de CHVD
 
 ### `CHVD_allowNoGrass`
 Permite habilitar en el menú CHVD la opción de **sin pasto**.  
@@ -40,11 +39,11 @@ Afecta edificios, vehículos, unidades, etc.
 
 ---
 
-## Configurar CHVD en `init.sqf`❓
+## Configurar CHVD en `init.sqf`
 
 **Sí funciona**, pero **no es recomendable**, especialmente en multijugador.
 
-### ❌ Problemas de usar `init.sqf`
+### Problemas de usar `init.sqf`
 - `init.sqf` puede ejecutarse:
   - En servidor
   - En host
@@ -53,7 +52,7 @@ Afecta edificios, vehículos, unidades, etc.
 - El servidor ejecuta variables que no necesita.
 - Puede causar conflictos si otros scripts leen CHVD demasiado temprano.
 
-### ✔ Para qué sirve realmente `init.sqf`
+### Para qué sirve realmente `init.sqf`
 - Lógica global
 - Scripts del servidor
 - Condiciones generales de inicio
@@ -62,7 +61,7 @@ Pero **no** para configuraciones del jugador ni ajustes gráficos.
 
 ---
 
-## 🟩 ¿Por qué usar `initPlayerLocal.sqf`?
+## ¿Por qué usar `initPlayerLocal.sqf`?
 
 `initPlayerLocal.sqf` se ejecuta:
 
@@ -77,7 +76,7 @@ Esto lo hace **el mejor lugar** para:
 - scripts de interfaz
 - scripts locales del jugador
 
-### ✔ Ventajas
+### ✅ Ventajas
 - Se ejecuta solo en el cliente.
 - No carga nada en el servidor.
 - Asegura que todos los jugadores reciban la configuración.
@@ -86,9 +85,9 @@ Esto lo hace **el mejor lugar** para:
 
 ---
 
-## ⭐ Conclusión
+## Conclusión
 
-### ✅ **La mejor práctica es mover las configuraciones CHVD a `initPlayerLocal.sqf`.**
+### **La mejor práctica es mover las configuraciones CHVD a `initPlayerLocal.sqf`.**
 
 Porque:
 
@@ -100,7 +99,7 @@ Porque:
 
 ---
 
-## 🧩 Script recomendado (comentado)
+## Script recomendado (comentado)
 
 Archivo: **`initPlayerLocal.sqf`**
 
@@ -122,5 +121,6 @@ CHVD_maxView = 7000;
 // Distancia máxima de renderizado de objetos (en metros).
 // Controla cuánto se muestran edificios, vehículos y unidades.
 CHVD_maxObj = 7000;
+
 
 
