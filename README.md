@@ -12,15 +12,17 @@ Está diseñado para apoyar a **editores de misión**, **scripters** y **unidade
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
 ```txt
 arma3-best-practices/
 │
-├── CHVD/
+├── CH-ViewDistance/
 │   ├── initPlayerLocal.sqf 
 │   └── README.md
-│
+├── MissionStructureConventions/
+│   ├── MyMission.Map/
+│   └── README.md
 └── README.md                 # Este documento (root)
 ```
 
@@ -34,7 +36,7 @@ Cada carpeta del repositorio representa un módulo, sistema o tema técnico, y c
 
 Este formato permite que cualquier creador de misiones revise **módulo por módulo** si está siguiendo las prácticas adecuadas.
 
-## 🎯 Objetivo del repositorio
+## Objetivo del repositorio
 
 El propósito principal es:
 
@@ -46,7 +48,7 @@ El propósito principal es:
 
 Este repositorio funciona como una guía técnica oficial para editores de ARMA 3.
 
-## 👥 ¿Quién debería usar este repositorio?
+## ¿Quién debería usar este repositorio?
 
 - Editores de misión de Arma 3
 - Personas que quieren aprender Eden Editor más a fondo
@@ -54,7 +56,7 @@ Este repositorio funciona como una guía técnica oficial para editores de ARMA 
 - Servidores comunitarios y privados
 - Scripters que desean buenas prácticas y plantillas
 
-## 🧷 Contribuciones
+## Contribuciones
 
 Este repositorio está pensado para crecer, por lo que puedes:
 
