@@ -94,6 +94,7 @@ MyMission.Map/
 │     └─ fn_shuffleArray.sqf
 ├─ scripts/
 │  └─ ambient_fireworks.sqf
+│  └─ diary.sqf
 ├─ images/
 │  ├─ ui/
 │  │  └─ img_ui_scoreboard.paa
@@ -152,6 +153,7 @@ Este estándar permite:
 - Evitar nombres inconsistentes, carpetas improvisadas y archivos en la raíz.
 - Reutilizar módulos y funciones fácilmente.
 - Mantener misiones limpias, estables y fáciles de debuggear.
+
 
 
 
