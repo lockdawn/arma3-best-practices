@@ -1,1 +1,124 @@
-description.ext
+// ==============================
+//            Básico
+// ==============================
+
+class Header
+{
+  gameType = MODO DE JUEGO; // Coop,RPG,Sandbox,LOTH,TDM(teamdeathmatch),Zeus 
+  minPlayers = 1;//Minimo de JG
+  maxPlayers = 40;//Máximo de JG
+};
+
+// ==============================
+//     Selector de Misiones
+// ==============================
+
+briefingName = "Mi Mision";
+overviewPicture = "imagenes\MiFoto.paa";
+overviewText = "Texto";
+
+// ==============================
+//       Pantalla de Carga
+// ==============================
+
+onLoadName 		= "Mi Misión"; // Nombre de la misión
+author 			= "Editor";	// Autor								
+onLoadMission 	= "Texto"; // Texto debajo de la imagen de carga
+loadScreen 		= "imagenes\MiFoto.paa"; // Imagen de carga(1024x512 pixeles)
+
+// ==============================
+//     Informacion del Mundo
+// ==============================
+
+class CfgWorlds // Configuraciones modifican factores que vienen con el mapa y se pueden alterar
+{
+    class any
+    {
+        author = "Creador del mapa"; // Arriba a la izquierda en pantalla de carga
+        description = "Nombre del Mapa";  // Arriba a la izquierda en pantalla de carga
+        pictureMap = "Imagen al cargar el mapa"; // 2048x2048
+        pictureShot = "Imagen de fondo en pantalla de carga"; // 2048x2048
+        loadingTexts[] = {
+            "Fuerzas Especiales latinas", // Mensajes Inferiores
+            "Mensaje 1",
+            "Mensaje 2",
+            "Mensaje 3"
+        };
+    };
+};
+
+
+// ==============================
+//   Configuracion Multijugador
+// ==============================
+//     MANTENER ESTOS VALORES
+
+// Desactiva el canal Global (ID 0) para que los jugadores no puedan usar el chat global.
+disableChannels[] = {0}; // Desactiva ciertos canales de chat dentro del juego.
+// Permite la consola de debug solo al host local o a los administradores del servidor dedicado.
+enableDebugConsole = 1;
+
+// ==============================
+//     CfgSounds de Arma 3
+// ==============================
+//   BORRAR SI NO SE VA A USAR
+
+class CfgSounds // === Añadir audio
+{
+  sounds[] = {};
+  class MiSonido
+  {
+    name = "MiSonido";
+    sound[] = {"\sounds\Sonido1.ogg", 1, 1};
+    titles[] = {0,""};
+  };
+};
+
+// ==============================
+// Garbage Collection de Arma 3
+// ==============================
+
+// Arma NO eliminará cadáveres o restos si están a menos de 50 metros de un jugador.
+// Evita que desaparezcan cosas frente a los players.
+minPlayerDistance = 50;
+
+// ==============================
+// Manejo automático de cadáveres
+// ==============================
+
+// Activa el corpse manager.
+// 0 = desactivado
+// 1 = elimina TODOS los cuerpos (amigos y enemigos)
+// 2 = solo cuerpos enemigos
+// 3 = solo cuerpos aliados
+corpseManagerMode = 1; // All
+
+// Límite total de cadáveres permitidos en el mapa.
+// Si se supera este número, Arma empieza a borrar los más antiguos.
+corpseLimit = 15;
+
+// Tiempo mínimo que un cadáver permanecerá en el mapa antes de ser eliminado.
+corpseRemovalMinTime = 120; // 2 minutos
+
+// Tiempo máximo antes de eliminar un cadáver.
+// Arma lo elimina en algún momento entre MinTime y MaxTime según rendimiento del servidor.
+corpseRemovalMaxTime = 1800; // 30 minutos
+
+// ==============================
+// Manejo de vehículos destruidos
+// ==============================
+
+// Activa el sistema que borra vehículos destruidos.
+// 0 = desactivado
+// 1 = activado
+wreckManagerMode = 1;
+
+// Límite total de vehículos destruidos permitidos en el mapa.
+// Si se supera, Arma elimina los más viejos.
+wreckLimit = 3;
+
+// Tiempo mínimo antes de eliminar un vehículo destruido.
+wreckRemovalMinTime = 120; // 2 minutos
+
+// Tiempo máximo antes de eliminar un vehículo destruido.
+wreckRemovalMaxTime = 1200; // 20 minutos
