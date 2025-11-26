@@ -1,1 +1,1 @@
-fn_setJetPilot.sqf
+// fn_setJetPilot.sqf
