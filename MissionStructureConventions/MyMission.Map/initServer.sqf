@@ -1,1 +1,1 @@
-initServer.sqf
+// initServer.sqf
