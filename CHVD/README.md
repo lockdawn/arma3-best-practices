@@ -4,6 +4,12 @@ Este documento explica **qué hacen las variables de CHVD**, si es correcto conf
 
 ---
 
+## 📦 MOD
+
+- [CH View Distance](https://steamcommunity.com/sharedfiles/filedetails/?id=837729515)
+
+---
+
 ## 🔍 ¿Qué es CHVD?
 
 **CH View Distance (CHVD)** es un mod que permite a cada jugador ajustar:
@@ -116,4 +122,5 @@ CHVD_maxView = 7000;
 // Distancia máxima de renderizado de objetos (en metros).
 // Controla cuánto se muestran edificios, vehículos y unidades.
 CHVD_maxObj = 7000;
+
 
