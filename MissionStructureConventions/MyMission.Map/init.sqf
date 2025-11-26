@@ -1,1 +1,1 @@
-init.sqf
+// init.sqf
