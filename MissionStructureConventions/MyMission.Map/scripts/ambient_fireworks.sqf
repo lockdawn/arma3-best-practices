@@ -1,1 +1,1 @@
-ambient_fireworks.sqf
+// ambient_fireworks.sqf
