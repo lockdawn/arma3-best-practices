@@ -1,1 +1,1 @@
-onPlayerKilled.sqf
+// onPlayerKilled.sqf
