@@ -1,0 +1,1 @@
+onPlayerRespawn.sqf

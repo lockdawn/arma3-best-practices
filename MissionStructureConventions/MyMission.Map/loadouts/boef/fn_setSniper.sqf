@@ -1,0 +1,1 @@
+fn_setSniper.sqf
