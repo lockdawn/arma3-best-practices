@@ -2,7 +2,7 @@
   Crea el briefing / diario de misión.
 */
 
-execVM "diary.sqf";
+execVM "scripts\diary.sqf";
 
 /*
     Remueve las gafas del jugador local al iniciar la misión.
