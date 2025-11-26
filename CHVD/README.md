@@ -40,10 +40,9 @@ Afecta edificios, vehículos, unidades, etc.
 
 ### ❌ Problemas de usar `init.sqf`
 - `init.sqf` puede ejecutarse:
-  - en servidor
-  - en host
-  - en clientes  
-  Arma 3 es inconsistente y depende del contenido.
+  - En servidor
+  - En host
+  - En clientes  
 - Jugadores que entran tarde (JIP) *no reciben la configuración*.
 - El servidor ejecuta variables que no necesita.
 - Puede causar conflictos si otros scripts leen CHVD demasiado temprano.
@@ -117,3 +116,4 @@ CHVD_maxView = 7000;
 // Distancia máxima de renderizado de objetos (en metros).
 // Controla cuánto se muestran edificios, vehículos y unidades.
 CHVD_maxObj = 7000;
+
