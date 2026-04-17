@@ -8,15 +8,11 @@ Este rol es crítico en misiones multijugador, ya que permite recuperar unidades
 
 El médico debe estar equipado con herramientas médicas avanzadas y contar con la capacidad de operar bajo presión, frecuentemente en zonas hostiles.
 
----
-
 ## 🧰 Herramientas
 
 ### 📖 Descripción
 
 Las herramientas incluyen todo el equipamiento personal necesario para navegación, comunicación, identificación y operación básica del soldado. Estos elementos son esenciales para la coordinación en el campo de batalla y el conocimiento situacional.
-
----
 
 ### 🩺 Requerimiento ACE
 
