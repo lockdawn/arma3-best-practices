@@ -27,7 +27,7 @@ El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Est
 
 ### ⚖️ Peso estimado
 
-`~ 1.63 kg`
+`~ 1.63 kg / 3.59 lb`
 
 ### 📦 Equipamiento
 
@@ -58,7 +58,7 @@ El chaleco contiene el equipo táctico de combate inmediato, incluyendo munició
 
 ### ⚖️ Peso estimado
 
-`~ 0 kg`
+`~ 4.78 kg / 10.55 lb`
 
 ### 📦 Equipamiento
 
@@ -66,11 +66,10 @@ El chaleco contiene el equipo táctico de combate inmediato, incluyendo munició
 |--------|--------|
 | 6 | Rifle Ammunition (primaria) |
 | 2 | Handgun Ammunition (secundaria) |
-| 2 | Fragmentation Grenade |
+| 1 | Fragmentation Grenade |
 | 2 | Smoke Grenade (white) |
 | 1 | Smoke Grenade (green) |
-| 1 | Smoke Grenade (purple) |
-| 1 | Smoke Grenade (red) |
+| 2 | Smoke Grenade (purple) |
 | 5 | Cable Tie (cinchos / esposas) |
 
 ---
@@ -83,7 +82,7 @@ La mochila está reservada para equipo especializado. En el caso del médico, co
 
 ### ⚖️ Peso estimado
 
-`~ 10.50 kg`
+`~ 10.30 kg / 22.71 lb`
 
 ### 📦 Equipamiento
 
@@ -118,7 +117,7 @@ La mochila está reservada para equipo especializado. En el caso del médico, co
 | 4 | Plasma IV (250ml) |
 | 2 | Plasma IV (500ml) |
 | 2 | Pulse Oximeter |
-| 1 | Saline IV (250ml) |
+| 2 | Saline IV (250ml) |
 | 2 | Splint |
 | 1 | Stethoscope |
 | 1 | Surgical Kit |
