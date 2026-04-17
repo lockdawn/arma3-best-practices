@@ -82,7 +82,7 @@ Médico
 ## ⚠️ Consideraciones Importantes
 
 - Los loadouts están diseñados para entornos multijugador.
-- Algunos objetos requieren mods (ej. KAT, IEDD, Task Force).
+- Algunos objetos requieren mods (ej. [KAT](https://steamcommunity.com/sharedfiles/filedetails/?id=2020940806), [IEDD](https://steamcommunity.com/sharedfiles/filedetails/?id=3048818056), [Task Force](https://steamcommunity.com/sharedfiles/filedetails/?id=894678801).
 - Verifica compatibilidad con tu modset antes de usar.
 
 ## 🔧 Personalización
