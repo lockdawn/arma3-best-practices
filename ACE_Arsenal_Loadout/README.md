@@ -75,7 +75,7 @@ Ejemplo:
 
 ```
 Médico
-├── equipment-and-roles_medic.txt
+├── README.md
 └── ace-arsenal-loadout_medic.sqf
 ```
 
