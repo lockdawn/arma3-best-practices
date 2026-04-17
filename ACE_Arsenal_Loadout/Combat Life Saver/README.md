@@ -8,9 +8,9 @@ Este rol es crítico en misiones multijugador, ya que permite recuperar unidades
 
 El médico debe estar equipado con herramientas médica, el rol de médico y contar con la capacidad de operar bajo presión, frecuentemente en zonas hostiles.
 
-### 🩺 Requerimiento ACE
+### 🩺 Rol ACE Requerido
 
-- **ACE Medic Level: Medic**
+- **ACE Rol:** Medic
 - Capacidad de utilizar equipo médico KAT.
 
 ---
