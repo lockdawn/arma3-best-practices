@@ -2,22 +2,16 @@
 
 ## 📌 Descripción del Rol
 
-El **Médico de Combate (Combat Life Saver)** es responsable de mantener con vida a los elementos del equipo durante la operación. Su función principal es proporcionar atención médica avanzada en el campo de batalla, estabilizar heridos, realizar intervenciones críticas y asegurar la continuidad operativa de la unidad.
+El **Médico de Combate (Combat Life Saver)** es responsable de mantener con vida a los elementos del equipo durante la operación. Su función principal es proporcionar atención médica en el campo de batalla, estabilizar heridos, realizar intervenciones y asegurar la continuidad operativa de la unidad.
 
 Este rol es crítico en misiones multijugador, ya que permite recuperar unidades que de otra forma quedarían fuera de combate, aumentando significativamente la supervivencia y efectividad del equipo.
 
-El médico debe estar equipado con herramientas médicas avanzadas y contar con la capacidad de operar bajo presión, frecuentemente en zonas hostiles.
-
-## 🧰 Herramientas
-
-### 📖 Descripción
-
-Las herramientas incluyen todo el equipamiento personal necesario para navegación, comunicación, identificación y operación básica del soldado. Estos elementos son esenciales para la coordinación en el campo de batalla y el conocimiento situacional.
+El médico debe estar equipado con herramientas médica, el rol de médico y contar con la capacidad de operar bajo presión, frecuentemente en zonas hostiles.
 
 ### 🩺 Requerimiento ACE
 
 - **ACE Medic Level: Medic**
-- Capacidad de utilizar equipo médico avanzado (tratamientos complejos, cirugía, etc.)
+- Capacidad de utilizar equipo médico KAT.
 
 ---
 
@@ -25,7 +19,7 @@ Las herramientas incluyen todo el equipamiento personal necesario para navegaci�
 
 ### 📖 Descripción
 
-El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Estos elementos permiten al operador realizar intervenciones inmediatas en caso de emergencia, incluso antes de que el médico despliegue equipo especializado.
+El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Estos elementos permiten al operador realizar intervenciones inmediatas en caso de emergencia.
 
 ### ⚖️ Peso estimado
 
@@ -56,7 +50,7 @@ El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Est
 
 ### 📖 Descripción
 
-El chaleco contiene el equipo táctico de combate inmediato, incluyendo munición, herramientas de control y elementos de señalización. Este equipamiento permite al médico defenderse y operar dentro del combate activo.
+El chaleco contiene el equipo táctico de combate inmediato, incluyendo munición, herramientas de control y elementos de señalización. Este equipamiento permite al operador defenderse y operar dentro del combate activo.
 
 ### ⚖️ Peso estimado
 
@@ -64,11 +58,16 @@ El chaleco contiene el equipo táctico de combate inmediato, incluyendo munició
 
 ### 📦 Equipamiento
 
-- Munición de arma primaria
-- Munición de arma secundaria (pistola)
-- Cinchos (restricciones / esposas)
-- Granadas de humo (varios colores)
-- Granadas de fragmentación
+| Cantidad | Objeto |
+|--------|--------|
+| 6 | Rifle Ammunition (primaria) |
+| 2 | Handgun Ammunition (secundaria) |
+| 2 | Fragmentation Grenade |
+| 2 | Smoke Grenade (white) |
+| 1 | Smoke Grenade (green) |
+| 1 | Smoke Grenade (purple) |
+| 1 | Smoke Grenade (red) |
+| 5 | Cable Tie (cinchos / esposas) |
 
 ---
 
@@ -77,11 +76,6 @@ El chaleco contiene el equipo táctico de combate inmediato, incluyendo munició
 ### 📖 Descripción
 
 La mochila está reservada para equipo especializado. En el caso del médico, contiene todos los suministros necesarios para tratamiento avanzado, estabilización prolongada y recuperación de personal herido.
-
-Este apartado varía dependiendo del rol. Por ejemplo:
-- Médico: equipo médico completo
-- EOD: herramientas de desactivación de explosivos
-- Ingeniero: herramientas de reparación
 
 ### ⚖️ Peso estimado
 
