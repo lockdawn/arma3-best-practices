@@ -10,8 +10,10 @@ El médico debe estar equipado con herramientas médica, el rol de médico y con
 
 ### 🩺 Rol ACE Requerido
 
-- **ACE Rol:** Medic
+- **ACE Rol:** Regular Medic
 - Capacidad de utilizar equipo médico KAT.
+
+<img width="556" height="677" alt="image" src="https://github.com/user-attachments/assets/8218b5ee-2037-4914-b79d-bf6cb1b4b3f1" />
 
 ---
 
