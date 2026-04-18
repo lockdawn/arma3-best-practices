@@ -78,7 +78,7 @@ El chaleco contiene el equipo táctico de combate inmediato, incluyendo munició
 
 ### 📖 Descripción
 
-La mochila está reservada para equipo especializado. En el caso del médico, contiene todos los suministros necesarios para tratamiento avanzado, estabilización prolongada y recuperación de personal herido.
+La mochila está reservada para equipo especializado. En el caso del cirujano, contiene todos los suministros necesarios para tratamiento avanzado, estabilización prolongada y recuperación de personal herido.
 
 ### ⚖️ Peso estimado
 
