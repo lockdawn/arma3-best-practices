@@ -1,17 +1,17 @@
 # Combat Life Saver
 
-## ?? Descripción del Rol
+## 馃搶 Descripci贸n del Rol
 
-El **Médico de Combate (Combat Life Saver)** es responsable de mantener con vida a los elementos del equipo durante la operación. Su función principal es proporcionar atención médica en el campo de batalla, estabilizar heridos, realizar intervenciones y asegurar la continuidad operativa de la unidad.
+El **M茅dico de Combate (Combat Life Saver)** es responsable de mantener con vida a los elementos del equipo durante la operaci贸n. Su funci贸n principal es proporcionar atenci贸n m茅dica en el campo de batalla, estabilizar heridos, realizar intervenciones y asegurar la continuidad operativa de la unidad.
 
-Este rol es crítico en misiones multijugador, ya que permite recuperar unidades que de otra forma quedarían fuera de combate, aumentando significativamente la supervivencia y efectividad del equipo.
+Este rol es cr铆tico en misiones multijugador, ya que permite recuperar unidades que de otra forma quedar铆an fuera de combate, aumentando significativamente la supervivencia y efectividad del equipo.
 
-El médico debe estar equipado con herramientas médicas, el rol de médico y contar con la capacidad de operar bajo presión, frecuentemente en zonas hostiles.
+El m茅dico debe estar equipado con herramientas m茅dicas, el rol de m茅dico y contar con la capacidad de operar bajo presi贸n, frecuentemente en zonas hostiles.
 
-### ?? Rol ACE Requerido
+### 馃┖ Rol ACE Requerido
 
 - **ACE Rol:** Regular Medic
-- Capacidad de utilizar equipo médico KAT.
+- Capacidad de utilizar equipo m茅dico KAT.
 
 <p align="center">
 <img width="356" height="477" alt="image" src="https://github.com/user-attachments/assets/8218b5ee-2037-4914-b79d-bf6cb1b4b3f1" />
@@ -19,17 +19,17 @@ El médico debe estar equipado con herramientas médicas, el rol de médico y co
 
 ---
 
-## ?? Uniforme
+## 馃憰 Uniforme
 
-### ?? Descripción
+### 馃摉 Descripci贸n
 
-El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Estos elementos permiten al operador realizar intervenciones inmediatas en caso de emergencia.
+El uniforme contiene el equipo b谩sico de supervivencia y primeros auxilios. Estos elementos permiten al operador realizar intervenciones inmediatas en caso de emergencia.
 
-### ?? Peso estimado
+### 鈿栵笍 Peso estimado
 
 `~ 1.63 kg / 3.59 lb`
 
-### ?? Equipamiento
+### 馃摝 Equipamiento
 
 | Cantidad | Objeto |
 |--------|--------|
@@ -50,17 +50,17 @@ El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Est
 
 ---
 
-## ?? Chaleco
+## 馃 Chaleco
 
-### ?? Descripción
+### 馃摉 Descripci贸n
 
-El chaleco contiene el equipo táctico de combate inmediato, incluyendo munición, herramientas de control y elementos de se?alización. Este equipamiento permite al operador defenderse y operar dentro del combate activo.
+El chaleco contiene el equipo t谩ctico de combate inmediato, incluyendo munici贸n, herramientas de control y elementos de se帽alizaci贸n. Este equipamiento permite al operador defenderse y operar dentro del combate activo.
 
-### ?? Peso estimado
+### 鈿栵笍 Peso estimado
 
 `~ 4.78 kg / 10.55 lb`
 
-### ?? Equipamiento
+### 馃摝 Equipamiento
 
 | Cantidad | Objeto |
 |--------|--------|
@@ -74,17 +74,17 @@ El chaleco contiene el equipo táctico de combate inmediato, incluyendo munició
 
 ---
 
-## ?? Mochila
+## 馃帓 Mochila
 
-### ?? Descripción
+### 馃摉 Descripci贸n
 
-La mochila está reservada para equipo especializado. En el caso del médico, contiene todos los suministros necesarios para tratamiento avanzado, estabilización prolongada y recuperación de personal herido.
+La mochila est谩 reservada para equipo especializado. En el caso del m茅dico, contiene todos los suministros necesarios para tratamiento avanzado, estabilizaci贸n prolongada y recuperaci贸n de personal herido.
 
-### ?? Peso estimado
+### 鈿栵笍 Peso estimado
 
 `~ 10.30 kg / 22.71 lb`
 
-### ?? Equipamiento
+### 馃摝 Equipamiento
 
 | Cantidad | Objeto |
 |--------|--------|
@@ -128,8 +128,8 @@ La mochila está reservada para equipo especializado. En el caso del médico, co
 
 ## Nota Final
 
-El Médico de Combate es un rol crítico que requiere una correcta configuración de equipamiento para operar eficazmente. Una mala configuración puede comprometer toda la misión.
+El M茅dico de Combate es un rol cr铆tico que requiere una correcta configuraci贸n de equipamiento para operar eficazmente. Una mala configuraci贸n puede comprometer toda la misi贸n.
 
-Este documento sirve como referencia base para garantizar que el rol esté correctamente equipado en cualquier escenario.
+Este documento sirve como referencia base para garantizar que el rol est茅 correctamente equipado en cualquier escenario.
 
 ---
