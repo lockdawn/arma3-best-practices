@@ -1,20 +1,20 @@
-# Combat Life Saver
+# Combat Surgeon
 
 ## 📌 Descripción del Rol
 
-El **Médico de Combate (Combat Life Saver)** es responsable de mantener con vida a los elementos del equipo durante la operación. Su función principal es proporcionar atención médica en el campo de batalla, estabilizar heridos, realizar intervenciones y asegurar la continuidad operativa de la unidad.
+El **Cirujano de Combate (Combat Surgeon)** es responsable de mantener con vida a los elementos del equipo durante la operación. Su función principal es proporcionar atención médica en el campo de batalla, estabilizar heridos, realizar intervenciones críticas y asegurar la continuidad operativa de la unidad.
 
 Este rol es crítico en misiones multijugador, ya que permite recuperar unidades que de otra forma quedarían fuera de combate, aumentando significativamente la supervivencia y efectividad del equipo.
 
-El médico debe estar equipado con herramientas médica, el rol de médico y contar con la capacidad de operar bajo presión, frecuentemente en zonas hostiles.
+El cirujano debe estar equipado con herramientas médicas avanzadas, el rol de doctor y contar con la capacidad de operar bajo presión, frecuentemente en zonas hostiles.
 
 ### 🩺 Rol ACE Requerido
 
-- **ACE Rol:** Regular Medic
-- Capacidad de utilizar equipo médico KAT.
+- **ACE Rol:** Doctor
+- Capacidad de utilizar equipo médico KAT avanzado (tratamientos complejos, cirugías, etc.)
 
 <p align="center">
-<img width="356" height="477" alt="image" src="https://github.com/user-attachments/assets/8218b5ee-2037-4914-b79d-bf6cb1b4b3f1" />
+<img width="358" height="479" alt="image" src="https://github.com/user-attachments/assets/4512fe2f-9d52-4d9e-87b4-55526228c076" />
 </p>
 
 ---
@@ -82,47 +82,68 @@ La mochila está reservada para equipo especializado. En el caso del médico, co
 
 ### ⚖️ Peso estimado
 
-`~ 10.30 kg / 22.71 lb`
+`~ 12.9 kg / 28.43 lb`
 
 ### 📦 Equipamiento
 
 | Cantidad | Objeto |
 |--------|--------|
-| 6 | 16g IV |
+| 8 | 16g IV |
 | 1 | AAT Kit |
-| 1 | Adenosine Autoinjector |
+| 2 | Adenosine Autoinjector |
+| 1 | AED X-Series |
+| 2 | Amiodarone |
 | 1 | Ammonium Carbonate |
 | 2 | Atropine Autoinjector |
-| 1 | Automated External Defibrillator |
 | 10 | Bandage (Elastic) |
 | 15 | Bandage (Packing) |
 | 3 | Body Bag (Blue) |
-| 2 | Caffeine Bottle |
+| 2 | Bone Plate |
+| 1 | BVM |
+| 2 | Caffeine bottle |
 | 6 | Chest Seal |
+| 2 | Clamp |
 | 1 | Coag-Sense |
-| 3 | Combat Pill Pack |
-| 4 | EACA |
+| 4 | Combat Pill Pack |
+| 5 | EACA |
 | 4 | Epinephrine Autoinjector |
+| 2 | Etomidate |
 | 3 | Eye Washer |
+| 5 | FAST IO |
+| 2 | Fentanyl |
 | 4 | Fluid Line Warmer |
-| 5 | Guedel Tube |
+| 2 | Flumazenil |
+| 2 | Guedel Tube |
 | 1 | Handheld Ultrasound |
 | 3 | IV Epinephrine |
 | 6 | Ketamine |
+| 6 | King LT |
+| 4 | Lidocaine |
+| 2 | Lorazepam |
 | 4 | Manual Suction Pump |
 | 4 | Morphine Autoinjector |
-| 3 | NCD Kit |
+| 8 | Nalbuphine |
+| 4 | NCD Kit |
+| 2 | Nitroglycerin |
+| 2 | Noreponephine |
+| 1 | Penthrox Inhaler |
+| 1 | Pervitin capsule |
+| 2 | Phenylephrine |
 | 5 | Phenylephrine Autoinjector |
 | 4 | Plasma IV (1000ml) |
 | 4 | Plasma IV (250ml) |
 | 2 | Plasma IV (500ml) |
+| 1 | Portable Oxygen Tank (150L) |
 | 2 | Pulse Oximeter |
+| 3 | REBOA Unit |
+| 2 | Retractor |
 | 2 | Saline IV (250ml) |
+| 2 | Scalpel |
 | 2 | Splint |
 | 1 | Stethoscope |
 | 1 | Surgical Kit |
 | 8 | Tourniquet (CAT) |
-| 4 | TXA |
+| 5 | TXA |
 
 ---
 
