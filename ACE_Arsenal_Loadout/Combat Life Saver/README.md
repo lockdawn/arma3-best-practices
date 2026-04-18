@@ -6,7 +6,7 @@ El **Médico de Combate (Combat Life Saver)** es responsable de mantener con vid
 
 Este rol es crítico en misiones multijugador, ya que permite recuperar unidades que de otra forma quedarían fuera de combate, aumentando significativamente la supervivencia y efectividad del equipo.
 
-El médico debe estar equipado con herramientas médica, el rol de médico y contar con la capacidad de operar bajo presión, frecuentemente en zonas hostiles.
+El médico debe estar equipado con herramientas médicas, el rol de médico y contar con la capacidad de operar bajo presión, frecuentemente en zonas hostiles.
 
 ### 🩺 Rol ACE Requerido
 
