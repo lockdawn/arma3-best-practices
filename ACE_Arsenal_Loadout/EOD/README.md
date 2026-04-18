@@ -10,11 +10,11 @@ El especialista EOD debe estar equipado con herramientas especializadas para det
 
 ### 🩺 Rol ACE Requerido
 
-- **ACE Rol:** Regular Medic
-- Capacidad de utilizar equipo médico KAT.
+- **ACE Rol:** EOD
+- Capacidad de utilizar equipo especializado IEDD.
 
 <p align="center">
-<img width="356" height="477" alt="image" src="https://github.com/user-attachments/assets/8218b5ee-2037-4914-b79d-bf6cb1b4b3f1" />
+<img width="361" height="479" alt="image" src="https://github.com/user-attachments/assets/aeda8133-d5bf-4022-ada2-6bf4b399091e" />
 </p>
 
 ---
@@ -23,7 +23,7 @@ El especialista EOD debe estar equipado con herramientas especializadas para det
 
 ### 📖 Descripción
 
-El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Estos elementos permiten al operador realizar intervenciones inmediatas en caso de emergencia.
+El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Estos elementos permiten al operador realizar intervenciones inmediatas en caso de emergencia, incluso antes de que el médico despliegue equipo especializado.
 
 ### ⚖️ Peso estimado
 
@@ -58,7 +58,7 @@ El chaleco contiene el equipo táctico de combate inmediato, incluyendo munició
 
 ### ⚖️ Peso estimado
 
-`~ 4.78 kg / 10.55 lb`
+`~ 5.24 kg / 11.55 lb`
 
 ### 📦 Equipamiento
 
@@ -79,11 +79,13 @@ El chaleco contiene el equipo táctico de combate inmediato, incluyendo munició
 
 ### 📖 Descripción
 
-La mochila está reservada para equipo especializado. En el caso del médico, contiene todos los suministros necesarios para tratamiento avanzado, estabilización prolongada y recuperación de personal herido.
+La mochila está reservada para equipo especializado. En el caso del operador EOD, contiene las herramientas necesarias para la identificación, evaluación y neutralización de amenazas, así como equipo de apoyo para operar en entornos de alto riesgo.
+
+Incluye dispositivos de detección, herramientas de desactivación, cargas de demolición controlada y equipo técnico que permite al especialista asegurar rutas, limpiar zonas de operación y reducir riesgos para el resto del equipo.
 
 ### ⚖️ Peso estimado
 
-`~ 10.30 kg / 22.71 lb`
+`~ 7.94 kg / 17.5 lb`
 
 ### 📦 Equipamiento
 
@@ -93,11 +95,11 @@ La mochila está reservada para equipo especializado. En el caso del médico, co
 | 1 | M183 Demolition Charge Assembly |
 | 1 | Defusal Kit |
 | 1 | Entrenching Tool |
-| 2 | IEDD Notebook |
 | 1 | M57 Firing Device |
 | 1 | Mine Detector |
-| 1 | Spray Paint (Red) |
+| 2 | IEDD Notebook |
 | 10 | Marker Flag (Red) |
+| 1 | Spray Paint (Red) |
 
 ---
 
