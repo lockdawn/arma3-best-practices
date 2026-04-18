@@ -147,9 +147,9 @@ La mochila está reservada para equipo especializado. En el caso del cirujano, c
 
 ---
 
-## 🧠 Nota Final
+## Nota Final
 
-El Médico de Combate es un rol crítico que requiere una correcta configuración de equipamiento para operar eficazmente. Una mala configuración puede comprometer toda la misión.
+El Cirujano de Combate es un rol crítico que requiere una correcta configuración de equipamiento para operar eficazmente. Una mala configuración puede comprometer toda la misión.
 
 Este documento sirve como referencia base para garantizar que el rol esté correctamente equipado en cualquier escenario.
 
