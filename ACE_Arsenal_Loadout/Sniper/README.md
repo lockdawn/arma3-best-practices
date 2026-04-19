@@ -97,7 +97,7 @@ El chaleco contiene el equipo táctico de combate inmediato, incluyendo munició
 
 La mochila está reservada para equipo especializado. En el caso del francotirador, contiene los elementos necesarios para mantener la autonomía del operador, asegurar la efectividad del disparo y sostener posiciones prolongadas sin comprometer la ocultación.
 
-Incluye munición adicional, ópticas y accesorios, herramientas de observación (como binoculares o dispositivos de medición), así como equipo de apoyo para camuflaje, ajuste de tiro y adquisición de objetivos. Su configuración está pensada para permitir al sniper operar de forma discreta, recopilar información y ejecutar blancos de alto valor con máxima precisión.
+Incluye munición adicional, ópticas y accesorios, herramientas de observación y dispositivos de medición, así como equipo de apoyo para camuflaje, ajuste de tiro y adquisición de objetivos. Su configuración está pensada para permitir al sniper operar de forma discreta, recopilar información y ejecutar blancos de alto valor con máxima precisión.
 
 ### ⚖️ Peso estimado
 
