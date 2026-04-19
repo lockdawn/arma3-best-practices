@@ -74,7 +74,7 @@ El chaleco contiene el equipo táctico de combate inmediato, incluyendo munició
 
 ### ⚖️ Peso estimado
 
-`~ 5.24 kg / 11.55 lb`
+`~ 6.33 kg / 13.95 lb`
 
 ### 📦 Equipamiento
 
@@ -101,7 +101,7 @@ Incluye munición adicional, ópticas y accesorios, herramientas de observación
 
 ### ⚖️ Peso estimado
 
-`~ 7.94 kg / 17.5 lb`
+`~ 1.70 kg / 3.74 lb`
 
 ### 📦 Equipamiento
 
