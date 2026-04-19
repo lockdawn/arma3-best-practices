@@ -19,6 +19,22 @@ El francotirador debe estar equipado con armamento de precisión, ópticas avanz
 
 ---
 
+## 🔭 Binoculares
+
+### 📖 Descripción
+
+El equipo que el francotirador utiliza para detectar, identificar y analizar objetivos, así como para realizar los cálculos previos al disparo.
+
+Se prioriza el uso de un range finder (telémetro) sobre binoculares convencionales, ya que permite medir distancias con precisión y mejorar la efectividad del tiro, sin comprometer la posición como lo haría un designador láser.
+
+### 📦 Equipamiento
+
+| Cantidad | Objeto |
+|--------|--------|
+| 1 | Rangefinder |
+
+---
+
 ## 👕 Uniforme
 
 ### 📖 Descripción
@@ -49,20 +65,6 @@ El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Est
 | 4 | Tourniquet (CAT) |
 
 ---
-
-## 🔭 Binoculares
-
-### 📖 Descripción
-
-El equipo que el francotirador utiliza para detectar, identificar y analizar objetivos, así como para realizar los cálculos previos al disparo.
-
-Se prioriza el uso de un range finder (telémetro) sobre binoculares convencionales, ya que permite medir distancias con precisión y mejorar la efectividad del tiro, sin comprometer la posición como lo haría un designador láser.
-
-### 📦 Equipamiento
-
-| Cantidad | Objeto |
-|--------|--------|
-| 1 | Rangefinder |
 
 ## 🦺 Chaleco
 
