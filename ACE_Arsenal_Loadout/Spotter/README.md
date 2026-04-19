@@ -117,7 +117,7 @@ Puede incluir munición adicional, ópticas y accesorios, herramientas de observ
 
 ## Nota Final
 
-El Observador Avanzado (Spotter) es un rol importante que requiere una configuración adecuada de equipo y una preparación técnica sólida para operar con eficacia. Una mala configuración o una selección inadecuada de equipamiento puede derivar en errores en la estimación de distancias, correcciones de tiro imprecisas o falta de conciencia situacional, comprometiendo directamente la misión.
+El Observador (Spotter) es un rol importante que requiere una configuración adecuada de equipo y una preparación técnica sólida para operar con eficacia. Una mala configuración o una selección inadecuada de equipamiento puede derivar en errores en la estimación de distancias, correcciones de tiro imprecisas o falta de conciencia situacional, comprometiendo directamente la misión.
 
 Este documento establece los lineamientos necesarios para garantizar que el spotter cuente con las capacidades técnicas y logísticas indispensables para la observación, adquisición de objetivos y corrección de tiro, proporcionando información precisa al tirador en entornos operativos complejos, manteniendo siempre la coordinación, disciplina y control del entorno táctico.
 
