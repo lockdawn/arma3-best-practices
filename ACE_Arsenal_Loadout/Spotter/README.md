@@ -99,7 +99,7 @@ Puede incluir munición adicional, ópticas y accesorios, herramientas de observ
 
 ### ⚖️ Peso estimado
 
-`~ 1.70 kg / 3.74 lb`
+`~ 3.15 kg / 6.93 lb`
 
 ### 📦 Equipamiento
 
