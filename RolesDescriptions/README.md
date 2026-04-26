@@ -6,7 +6,7 @@ Utilizando el campo de descripción de las unidades, se logra una estructura jer
 
 ------------------------------------------------------------
 
-🛠️ Guía de Implementación
+## 🛠️ Guía de Implementación
 
 Para configurar los slots correctamente en el Eden Editor, sigue estos pasos:
 
@@ -24,71 +24,91 @@ Para configurar los slots correctamente en el Eden Editor, sigue estos pasos:
 
 ------------------------------------------------------------
 
-📜 Configuración de Secciones
+## 📜 Configuración de Secciones
 
 El sistema de organización se divide en 5 áreas operativas para las fuerzas de FEL.
 
-IMPORTANTE:
-Solo copia la línea de texto después del rol y pégala directamente en la descripción del slot.
+**IMPORTANTE:** Solo copia la línea de texto del rol y pégala directamente en la descripción del slot.
 
 ------------------------------------------------------------
 
-👑 LIMA (Mando y Control)
-
-Orientado al editor y administrador de la misión bajo el rol de Zeus.
-```
-Sgto. lock - Zeus@LIMA
-```
-------------------------------------------------------------
-
-🔫 PHOBOS (Sección de Infantería de FEL - SIF)
+### 🔫 PHOBOS (Sección de Infantería de FEL - SIF)
 
 El núcleo de la fuerza de asalto terrestre.
+
+#### Mando de SIF
 ```
-Tte. Joaco - Group Leader@PHOBOS
-Team Leader@PHOBOS - ALPHA
-Combat Surgeon
-Team Leader@PHOBOS - BRAVO
-Team Leader@PHOBOS - CHARLIE
+1: Tte. Joaco - Group Leader@PHOBOS
+```
+
+#### Equipo Alpha
+```
+1: Team Leader@PHOBOS - ALPHA
+#: Combat Surgeon
+```
+
+#### Equipo Bravo
+```
+1: Team Leader@PHOBOS - BRAVO
+```
+
+#### Equipo Charlie
+```
+1: Team Leader@PHOBOS - CHARLIE
 ```
 ------------------------------------------------------------
 
-🛡️ HAMMER (Equipo Blindado)
+### 🛡️ HAMMER (Equipo Blindado)
 
 Personal especializado en la operación de tanques y vehículos de apoyo pesado.
 
-Crew Chief@PHOBOS - HAMMER
-
+```
+1: Crew Chief@PHOBOS - HAMMER
+2: Crew
+3: Crew
+```
 ------------------------------------------------------------
 
-🚁 QUIMERA (Regimiento de Operaciones Aero Navales - ROAN)
+### 🚁 QUIMERA (Regimiento de Operaciones Aero Navales - ROAN)
 
 Personal de vuelo encargado del transporte, extracción y apoyo aéreo cercano.
+
 ```
-Raven - Pilot Leader@QUIMERA
-Quetzal - Pilot
-Phoenix - Pilot
-Razgriz - Pilot
+1: Raven - Pilot Leader@QUIMERA
+2: Quetzal - Pilot
+3: Phoenix - Pilot
+4: Razgriz - Pilot
 ```
 ------------------------------------------------------------
 
-💀 CARONTE (Brigada de Operaciones Especiales - BOEF)
+### 💀 CARONTE (Brigada de Operaciones Especiales - BOEF)
 
 Unidad de élite para misiones de infiltración, sabotaje y reconocimiento.
+
 ```
-Cap. Chuky - Team Leader@CARONTE
-Sniper
-Combat Surgeon
-Gunner (LMG)
-JTAC
-Explosive Specialist
+1: Cap. Chuky - Team Leader@CARONTE
+2: Sniper
+3: Combat Surgeon
+4: Gunner (LMG)
+5: Radio Operator
+6: Explosive Specialist
+```
+
+#### ➕ Roles Adicionales (Extras)
+
+Estos roles pueden añadirse a CARONTE según la necesidad de la misión:
+
+```
+#: JTAC
+#: Grenadier
+#: Missile Specialist (AT)
 ```
 ------------------------------------------------------------
 
-➕ Roles Adicionales (Especialistas)
+### 👑 LIMA (Mando y Control)
 
-Estos roles pueden añadirse a cualquiera de las escuadras anteriores según la necesidad de la misión:
+Orientado al editor y administrador de la misión bajo el rol de Zeus.
+
 ```
-Grenadier
-Missile Specialist (AT)
+1: Sgto. lock - Zeus@LIMA
 ```
