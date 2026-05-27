@@ -6,6 +6,8 @@ El **Observador (Spotter)** es responsable de apoyar al francotirador o al tirad
 
 Este rol es importante en misiones multijugador, ya que permite mejorar la precisión del tirador, anticipar amenazas y proporcionar información táctica en tiempo real, aumentando la supervivencia y efectividad del binomio. El spotter también actúa como elemento de seguridad cercana y apoyo en la toma de decisiones.
 
+---
+
 ### 🩺 Rol ACE Requerido
 
 - **ACE Rol:** N/A
