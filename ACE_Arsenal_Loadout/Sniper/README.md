@@ -10,6 +10,11 @@ El francotirador debe estar equipado con armamento de precisión, ópticas avanz
 
 ---
 
+### 🧩 Mod Requerido
+- **Arma 3 Workshop:** [ACE](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057)
+
+---
+
 ### 🩺 Rol ACE Requerido
 
 - **ACE Rol:** N/A
