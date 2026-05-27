@@ -8,6 +8,13 @@ Este rol es crítico en misiones multijugador, ya que permite recuperar unidades
 
 El cirujano debe estar equipado con herramientas médicas avanzadas, el rol de doctor y contar con la capacidad de operar bajo presión, frecuentemente en zonas hostiles.
 
+---
+
+### 🧩 Mod Requerido
+- **Arma 3 Workshop:** [KAT - Advanced Medical](https://steamcommunity.com/sharedfiles/filedetails/?id=2020940806)
+
+---
+
 ### 🩺 Rol ACE Requerido
 
 - **ACE Rol:** Doctor
