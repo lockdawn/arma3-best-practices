@@ -8,6 +8,13 @@ Este rol es crítico en misiones multijugador, ya que permite abrir rutas segura
 
 El especialista EOD debe estar equipado con herramientas especializadas para detección y desactivación, contar con entrenamiento técnico en procedimientos de manejo de explosivos y tener la capacidad de operar bajo presión en entornos hostiles, donde la precisión y la disciplina son fundamentales para evitar detonaciones accidentales.
 
+---
+
+### 🧩 Mod Requerido
+- **Arma 3 Workshop:** [IEDD Notebook](https://steamcommunity.com/sharedfiles/filedetails/?id=3048818056)
+
+---
+
 ### 🩺 Rol ACE Requerido
 
 - **ACE Rol:** EOD
