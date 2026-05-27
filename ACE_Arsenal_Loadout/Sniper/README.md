@@ -8,6 +8,8 @@ Este rol es crítico en misiones multijugador, ya que permite eliminar amenazas 
 
 El francotirador debe estar equipado con armamento de precisión, ópticas avanzadas y herramientas de observación, además de contar con entrenamiento en camuflaje, estimación de distancias, corrección de tiro y disciplina de disparo. Debe operar bajo presión en entornos hostiles, manteniendo siempre la discreción, paciencia y control, ya que su efectividad depende tanto de su precisión como de su capacidad para permanecer oculto.
 
+---
+
 ### 🩺 Rol ACE Requerido
 
 - **ACE Rol:** N/A
