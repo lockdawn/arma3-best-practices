@@ -10,6 +10,9 @@ El lanzador desechable representa una capacidad puntual para neutralizar amenaza
 
 ### 🧩 Mod Requerido
 - **Arma 3 Workshop:** [ACE](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057)
+- **Mod de armamento compatible:** Se debe incluir el mod que contenga el lanzador antitanque desechable seleccionado para la facción o preset utilizado.
+
+> **Ejemplo:** si se desea utilizar un **M136 AT4**, **M72 LAW**, **RPG-26** u otro sistema equivalente, debe estar cargado el mod correspondiente que lo incluya, como **RHS**, **CUP** u otro mod compatible.
 
 ---
 
