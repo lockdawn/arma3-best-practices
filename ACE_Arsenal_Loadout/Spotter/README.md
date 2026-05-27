@@ -8,6 +8,11 @@ Este rol es importante en misiones multijugador, ya que permite mejorar la preci
 
 ---
 
+### 🧩 Mod Requerido
+- **Arma 3 Workshop:** [ACE](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057)
+
+---
+
 ### 🩺 Rol ACE Requerido
 
 - **ACE Rol:** N/A
