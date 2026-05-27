@@ -4,7 +4,7 @@
 
 El **Granadero (Grenadier)** es un operador de infantería equipado con un lanzagranadas acoplado o sistema equivalente, diseñado para proporcionar apoyo explosivo ligero a nivel de escuadra. Su función principal es atacar posiciones enemigas, cubrir avances, neutralizar amenazas detrás de cobertura y apoyar la maniobra del equipo mediante fuego indirecto de corto alcance.
 
-Este rol opera integrado con su fireteam, manteniendo las responsabilidades generales de un fusilero, pero con la capacidad adicional de emplear granadas de 40 mm para aumentar la presión sobre el enemigo. Su uso debe ser coordinado con el líder de equipo para evitar fuego fratricida y maximizar el efecto sobre objetivos agrupados, posiciones fortificadas o zonas de difícil acceso.
+Este rol opera integrado con su escuadra, manteniendo las responsabilidades generales de un fusilero, pero con la capacidad adicional de emplear granadas de 40 mm para aumentar la presión sobre el enemigo. Su uso debe ser coordinado con el líder de equipo para evitar fuego fratricida y maximizar el efecto sobre objetivos agrupados, posiciones fortificadas o zonas de difícil acceso.
 
 ---
 
