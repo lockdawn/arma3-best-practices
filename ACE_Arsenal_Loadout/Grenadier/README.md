@@ -88,19 +88,19 @@ La mochila del Granadero contiene munición adicional para el lanzagranadas, pri
 
 ### ⚖️ Peso estimado
 
-`~ 1.70 kg / 3.74 lb`
+`~ 10.52 kg / 23.20 lb`
 
 ### 📦 Equipamiento
 
 | Cantidad | Objeto |
 |--------|--------|
-| 1 | AtragMX |
-| 1 | Kestrel 4500NV |
-| 1 | Map Tools |
-| 1 | Notepad |
-| 1 | Range Card |
-| 1 | Wirecutter |
-| 1 | Sandbag (Empty) |
+| 20 | 40 mm HE Grenade Round |
+| 5 | Smoke Round (White) |
+| 2 | Smoke Round (Blue) |
+| 2 | Smoke Round (Green) |
+| 2 | Smoke Round (Purple) |
+| 2 | Smoke Round (Red) |
+| 10 | Illumination Round (White) |
 
 ---
 
