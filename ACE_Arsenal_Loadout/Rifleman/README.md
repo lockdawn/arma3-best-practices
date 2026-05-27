@@ -19,7 +19,7 @@ Este rol opera integrado con su escuadra, cubriendo sectores asignados, respondi
 - No necesita de roles ACE para desempeñar sus actividades.
 
 <p align="center">
-<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/70e6f263-8263-43d2-8fc7-f506c35f7b8c" />
+<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/ae8b6776-7902-491c-a04c-448865080e59" />
 </p>
 
 ---
