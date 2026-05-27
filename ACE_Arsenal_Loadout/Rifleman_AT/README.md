@@ -5,6 +5,7 @@
 El **Fusilero Anti-Tanque (Rifleman AT)** es un operador de infantería equipado con capacidad antitanque ligera. Su función principal es apoyar a la escuadra proporcionando fuego directo como fusilero, mientras mantiene la capacidad de responder ante amenazas blindadas ligeras, vehículos enemigos o posiciones fortificadas.
 
 El lanzador desechable representa una capacidad puntual para neutralizar amenazas específicas sin convertir al operador en un especialista antitanque pesado.
+
 ---
 
 ### 🧩 Mod Requerido
