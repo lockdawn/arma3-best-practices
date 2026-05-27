@@ -110,6 +110,4 @@ El Granadero (Grenadier) aporta una capacidad táctica importante al permitir qu
 
 Su efectividad depende del criterio en el empleo de la munición, la coordinación con el equipo y el control de distancias de seguridad. Este documento establece los lineamientos necesarios para garantizar que el Granadero cuente con una carga funcional, equilibrada y coherente con su rol dentro de la unidad.
 
-Este documento establece los lineamientos necesarios para garantizar que el sniper cuente con las capacidades técnicas y logísticas indispensables para la observación, adquisición de objetivos y ejecución de disparos de precisión en entornos operativos complejos, manteniendo siempre la discreción, disciplina y control del campo de batalla.
-
 ---
