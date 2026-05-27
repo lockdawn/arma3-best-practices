@@ -102,6 +102,8 @@ La mochila del Granadero contiene munición adicional para el lanzagranadas, pri
 | 2 | Smoke Round (Red) |
 | 10 | Illumination Round (White) |
 
+> **Nota:** Las **Illumination Round (White)** son municiones situacionales. Se recomienda incluirlas únicamente en misiones nocturnas, operaciones con baja visibilidad o escenarios donde se requiera iluminar zonas de combate, rutas de avance o posiciones enemigas. En misiones diurnas, estas rondas pueden omitirse o reemplazarse por munición de mayor utilidad táctica.
+
 ---
 
 ## Nota Final
