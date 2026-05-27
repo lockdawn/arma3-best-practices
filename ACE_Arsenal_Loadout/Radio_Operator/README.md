@@ -48,7 +48,7 @@ Se recomienda el uso de binoculares o equipo equivalente, ya que permite al RO o
 
 El Radio Operator también debe contar con una radio personal de corto alcance que permita el uso de canal adicional.
 
-Esta radio le permite mantenerse atento a la comunicación interna del fireteam o escuadra mientras monitorea una segunda frecuencia de corto alcance. Esto es especialmente útil cuando el RO necesita escuchar simultáneamente la comunicación de su elemento inmediato y otra red táctica asignada por el mando.
+Esta radio le permite mantenerse atento a la comunicación interna del equipo o escuadra mientras monitorea una segunda frecuencia de corto alcance. Esto es especialmente útil cuando el RO necesita escuchar simultáneamente la comunicación de su elemento inmediato y otra red táctica asignada por el mando.
 
 El uso de una radio personal con canal adicional mejora la coordinación, reduce la pérdida de información importante y permite que el operador mantenga comunicación constante sin depender únicamente de la radio de largo alcance.
 
