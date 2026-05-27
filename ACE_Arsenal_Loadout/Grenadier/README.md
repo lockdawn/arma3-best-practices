@@ -88,7 +88,7 @@ La mochila del Granadero contiene munición adicional para el lanzagranadas, pri
 
 ### ⚖️ Peso estimado
 
-`~ 10.52 kg / 23.20 lb`
+`~ 12.34 kg / 27.20 lb`
 
 ### 📦 Equipamiento
 
@@ -100,9 +100,13 @@ La mochila del Granadero contiene munición adicional para el lanzagranadas, pri
 | 2 | Smoke Round (Green) |
 | 2 | Smoke Round (Purple) |
 | 2 | Smoke Round (Red) |
+| 1 | HuntIR Monitor |
+| 5 | HuntIR Round |
 | 10 | Illumination Round (White) |
 
-> **Nota:** Las **Illumination Round (White)** son municiones situacionales. Se recomienda incluirlas únicamente en misiones nocturnas, operaciones con baja visibilidad o escenarios donde se requiera iluminar zonas de combate, rutas de avance o posiciones enemigas. En misiones diurnas, estas rondas pueden omitirse o reemplazarse por munición de mayor utilidad táctica.
+> **Nota:** El **HuntIR Monitor** y las **HuntIR Round** son elementos situacionales orientados a reconocimiento y observación desde el lanzagranadas. Su uso tiene mayor sentido en misiones donde se requiera inspeccionar zonas de difícil acceso, confirmar posiciones enemigas o apoyar la toma de decisiones antes de avanzar.
+
+> Las **Illumination Round (White)** también son municiones situacionales. Se recomienda incluirlas únicamente en misiones nocturnas, operaciones con baja visibilidad o escenarios donde se requiera iluminar zonas de combate, rutas de avance o posiciones enemigas. En misiones diurnas, estos elementos pueden omitirse o reemplazarse por munición de mayor utilidad táctica.
 
 ---
 
