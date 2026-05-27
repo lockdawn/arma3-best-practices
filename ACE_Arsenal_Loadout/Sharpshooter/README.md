@@ -8,6 +8,8 @@ Este rol es crítico en misiones multijugador, ya que permite mantener presión 
 
 El tirador distinguido debe estar equipado con un fusil de precisión semiautomático, ópticas adecuadas y equipo básico de observación, además de contar con entrenamiento en adquisición de objetivos, control de tiro y disciplina de fuego. Debe operar bajo presión en entornos hostiles, manteniendo precisión y control, mientras se adapta al ritmo y necesidades de su escuadra.
 
+---
+
 ### 🩺 Rol ACE Requerido
 
 - **ACE Rol:** N/A
