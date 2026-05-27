@@ -11,7 +11,7 @@ El especialista EOD debe estar equipado con herramientas especializadas para det
 ---
 
 ### 🧩 Mod Requerido
-- **Arma 3 Workshop:** [ACE](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057)
+- **Arma 3 Workshop:** [IEDD Notebook](https://steamcommunity.com/sharedfiles/filedetails/?id=3048818056)
 
 ---
 
