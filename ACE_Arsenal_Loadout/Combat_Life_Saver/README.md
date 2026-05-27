@@ -8,6 +8,13 @@ Este rol es crítico en misiones multijugador, ya que permite recuperar unidades
 
 El médico debe estar equipado con herramientas médicas, el rol de médico y contar con la capacidad de operar bajo presión, frecuentemente en zonas hostiles.
 
+---
+
+### 🧩 Mod Requerido
+- **Arma 3 Workshop:** [KAT - Advanced Medical](https://steamcommunity.com/sharedfiles/filedetails/?id=2020940806)
+
+---
+
 ### 🩺 Rol ACE Requerido
 
 - **ACE Rol:** Regular Medic
