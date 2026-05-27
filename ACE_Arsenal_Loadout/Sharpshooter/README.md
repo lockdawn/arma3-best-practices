@@ -10,6 +10,11 @@ El tirador distinguido debe estar equipado con un fusil de precisión semiautom�
 
 ---
 
+### 🧩 Mod Requerido
+- **Arma 3 Workshop:** [ACE](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057)
+
+---
+
 ### 🩺 Rol ACE Requerido
 
 - **ACE Rol:** N/A
