@@ -7,6 +7,7 @@ El **Helicopter Pilot (Piloto de Helicóptero)** es el operador encargado de emp
 Este rol requiere dominio del despegue, aterrizaje, vuelo estacionario, navegación a baja altitud, aproximaciones tácticas y maniobras en zonas reducidas. El piloto debe ser capaz de operar en diferentes condiciones de terreno, clima y visibilidad, manteniendo control de la aeronave durante maniobras de entrada y salida en zonas de aterrizaje.
 
 Durante la operación, el Helicopter Pilot debe mantener conciencia situacional del terreno, obstáculos, amenazas antiaéreas, estado de la aeronave, combustible disponible y seguridad de la tripulación o pasajeros transportados.
+
 ---
 
 ### 🧩 Mod Requerido
