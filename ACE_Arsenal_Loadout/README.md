@@ -103,7 +103,7 @@ NombreDeLaMision.Mapa/
 ```
 
 #### Paso 2: Guardar el archivo `.sqf` del loadout.
-- Descarga o crea el archivo .sqf del rol que deseas utilizar y guárdalo dentro de la carpeta `\loadouts`.
+- Descarga o crea el archivo `.sqf` del rol que deseas utilizar y guárdalo dentro de la carpeta `\loadouts`.
 - El archivo debe contener únicamente el código ACE del loadout, sin comandos adicionales.
 
 #### Paso 3: Configurar el objeto interactivo.
@@ -140,7 +140,7 @@ this addAction [
 - Usa la rueda del mouse.
 - Selecciona la opción:
 ```
-Colocar equipo: Rifleman
+Colocar Equipo
 ```
 - El equipamiento completo será aplicado automáticamente al jugador que seleccionó la acción.
 
