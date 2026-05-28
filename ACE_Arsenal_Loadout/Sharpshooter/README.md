@@ -21,7 +21,7 @@ El tirador distinguido debe estar equipado con un fusil de precisión semiautom�
 - No necesita de roles ACE para desempeñar sus actividades.
 
 <p align="center">
-<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/70e6f263-8263-43d2-8fc7-f506c35f7b8c" />
+<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/ed2c9bf2-48c6-40be-b134-94263e468bfe" />
 </p>
 
 ---
