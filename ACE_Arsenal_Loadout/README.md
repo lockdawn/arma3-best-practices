@@ -51,9 +51,18 @@ Este código permite:
 
 ### 1. Importar Loadout en el ACE Arsenal:
 
-1. Copia el código ACE.
-2. Edita el Loadout desde el ACE Arsenal.
-3. Importa el Loadout en el ACE Arsenal.
+Este método es útil cuando el editor o jugador desea cargar el equipamiento manualmente desde el ACE Arsenal para revisar, modificar o guardar el loadout.
+
+#### Pasos
+
+1. Abre el archivo `.sqf` del rol que deseas utilizar. Ejemplo:
+```txt
+   ACE_Arsenal_Loadout/Rifleman/ace-arsenal-loadout_rifleman.sqf
+```
+2. Copia todo el contenido del archivo.
+3. Dentro de Arma 3, abre el ACE Arsenal.
+4. Selecciona la opción para importar loadout.
+5. El equipamiento completo del rol será cargado automáticamente en el arsenal.
 
 <p align="center">
   <img width="800" height="450" alt="Ace_Arsenal" src="https://github.com/user-attachments/assets/9891702b-edfa-4626-a2f6-1c414fc888fd" />
@@ -61,14 +70,20 @@ Este código permite:
 
 ### 2. Aplicar Loadout desde el `Init` de la unidad:
 
-1. Selecciona la unidad.
-2. Abre sus atributos.
-3. Inserta el siguiente script en el campo `Init`:
+Este método permite asignar el equipamiento directamente a una unidad colocada en Eden Editor. Es útil cuando se quiere que una unidad inicie la misión con un rol específico ya equipado.
+
+#### Pasos
+
+1. En Eden Editor, selecciona la unidad a la que deseas asignar el equipamiento.
+2. Abre los atributos de la unidad.
+3. Busca el campo `Init`.
+4. Copia el código ACE del rol que deseas utilizar.
+5. Inserta el siguiente comando en el campo `Init`:
 ```sqf
 this setUnitLoadout ACE_CODE;
 ```
-4. Sustituye **ACE_CODE** por el Loadout Code:
-5. Guarda y prueba.
+4. Sustituye `ACE_CODE` por el código completo del loadout.
+5. Inicia la misión y verifica que la unidad aparezca con el equipamiento correcto.
 
 <p align="center">
   <img width="800" height="450" alt="ezgif-480a39fbc38a0827" src="https://github.com/user-attachments/assets/5638d40f-c2d5-421a-b3f9-f4f813e53c9a" />
@@ -76,15 +91,29 @@ this setUnitLoadout ACE_CODE;
 
 ### 3. Aplicar Loadouts desde un Objeto Interactivo.
 
-#### Paso 1: Descargar y guardar archivo sqf del Loadout:
-1. Descarga el código ACE.
-2. Crea la carpeta `\loadouts` dentro de los archivos de tu misión.
-3. Guarda el archivo del Loadout `loadouts\rifleman.sqf`.
+Este método permite que los jugadores se acerquen a un objeto dentro de la misión, como un casillero, caja, laptop, arsenal o locker, y seleccionen una opción para colocarse automáticamente el equipamiento de un rol.
 
-#### Paso 2: Configurar el Objeto Interactivo:
-1. Selecciona el objeto.
-2. Abre sus atributos.
-3. Inserta el siguiente script en el campo `Init` *(No olvides cambiar el nombre del archivo sqf)*.
+#### Pasos
+
+#### Paso 1: Crear la carpeta de loadouts.
+- Dentro de la carpeta de la misión, crea una carpeta llamada `\loadouts`.
+- La estructura debería quedar similar a esto:
+```
+NombreDeLaMision.Mapa/
+├── mission.sqm
+└── loadouts/
+```
+
+#### Paso 2: Guardar el archivo `.sqf` del loadout.
+- Descarga o crea el archivo .sqf del rol que deseas utilizar y guárdalo dentro de la carpeta `\loadouts`.
+- El archivo debe contener únicamente el código ACE del loadout, sin comandos adicionales.
+
+#### Paso 3: Configurar el objeto interactivo.
+- En Eden Editor, coloca un objeto que funcionará como punto de equipamiento.
+- Selecciona el objeto.
+- Abre sus atributos.
+- Busca el campo `Init`.
+- Inserta el siguiente código:
 ```
 this addAction [
     "<t color='#00FF00'>Colocar Equipo</t>",
@@ -105,6 +134,17 @@ this addAction [
     "alive _this && _this distance _target < 3"
 ];
 ```
+
+#### Paso 4: Probar en misión.
+- Guarda la misión.
+- Inicia la misión en prueba local o servidor.
+- Acércate al objeto configurado.
+- Usa la rueda del mouse.
+- Selecciona la opción:
+```
+Colocar equipo: Rifleman
+```
+- El equipamiento completo será aplicado automáticamente al jugador que seleccionó la acción.
 
 <p align="center">
 <img width="800" height="450" alt="archivo_sqf" src="https://github.com/user-attachments/assets/a12f46c9-07fe-4822-910d-b25c387452c4" />
