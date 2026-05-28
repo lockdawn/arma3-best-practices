@@ -80,6 +80,7 @@ El chaleco contiene el equipo táctico de combate inmediato, incluyendo munició
 | 1 | Smoke Grenade (purple) |
 | 1 | Smoke Grenade (red) |
 | 5 | Cable Tie (cinchos / esposas) |
+| 1 | Entrenching Tool |
 
 ---
 
