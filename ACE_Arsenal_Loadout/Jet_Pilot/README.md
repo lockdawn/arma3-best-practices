@@ -22,7 +22,7 @@ Durante la operación, el Jet Pilot debe mantener conciencia situacional del ter
 - **ACE Rol:** Engineer
 
 <p align="center">
-<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/dc71a824-d835-43d8-a949-ac595e92e9cb" />
+<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/de1d569e-2bdf-469f-9d6b-509494bf95a5" />
 </p>
 
 ---
