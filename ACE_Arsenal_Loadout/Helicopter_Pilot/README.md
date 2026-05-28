@@ -35,6 +35,10 @@ El **Piloto de Helicóptero** debe contar con un reloj tipo **Katmin K500** o ac
 
 Este equipo funciona como un instrumento personal de apoyo, permitiendo al piloto consultar datos importantes como **saturación de oxígeno, pulsaciones por minuto, altitud, temperatura, brújula** y otros indicadores relevantes según la configuración del mod utilizado.
 
+<p align="center">
+<img width="200" height="253" alt="KatminK500" src="https://github.com/user-attachments/assets/b306e701-cd33-4a72-a8f1-72a868664f8b" />
+</p>
+
 El uso de este reloj es especialmente útil durante vuelos prolongados, operaciones a baja visibilidad, navegación en terreno complejo, vuelos a diferentes altitudes o situaciones donde el piloto necesite mantener conciencia situacional sin depender únicamente de los instrumentos de la aeronave.
 
 Aunque no sustituye los sistemas propios del helicóptero, el Katmin K500 proporciona una referencia adicional que puede ayudar al piloto a mantener control sobre su estado físico, orientación y condiciones del entorno durante la operación.
