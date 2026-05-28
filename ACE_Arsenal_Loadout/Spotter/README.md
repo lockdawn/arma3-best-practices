@@ -19,7 +19,7 @@ Este rol es importante en misiones multijugador, ya que permite mejorar la preci
 - No necesita de roles ACE para desempeñar sus actividades.
 
 <p align="center">
-<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/70e6f263-8263-43d2-8fc7-f506c35f7b8c" />
+<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/d1ed4e0b-0636-4548-a3bd-ff5cada88850" />
 </p>
 
 ---
