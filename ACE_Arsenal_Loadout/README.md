@@ -49,7 +49,17 @@ Este código permite:
 
 ## 🧠 Cómo Utilizarlo
 
-En Eden Editor
+### Importar Loadout en el ACE Arsenal:
+
+1. Copia el código ACE.
+2. Edita el Loadout desde el ACE Arsenal.
+3. Importa el Loadout en el ACE Arsenal.
+
+<p align="center">
+  <img width="800" height="450" alt="Ace_Arsenal" src="https://github.com/user-attachments/assets/9891702b-edfa-4626-a2f6-1c414fc888fd" />
+</p>
+
+### Aplicar Loadout desde el `init` de la unidad:
 
 1. Selecciona la unidad.
 2. Abre sus atributos.
@@ -61,7 +71,43 @@ this setUnitLoadout ACE_CODE;
 5. Guarda y prueba.
 
 <p align="center">
-<img width="800" height="450" alt="ezgif-480a39fbc38a0827" src="https://github.com/user-attachments/assets/5638d40f-c2d5-421a-b3f9-f4f813e53c9a" />
+  <img width="800" height="450" alt="ezgif-480a39fbc38a0827" src="https://github.com/user-attachments/assets/5638d40f-c2d5-421a-b3f9-f4f813e53c9a" />
+</p>
+
+### Aplicar Loadouts desde un Objeto Interactivo.
+
+#### Paso 1: Descargar y guardar archivo sqf del Loadout:
+1. Descarga el código ACE.
+2. Crea la carpeta `\loadouts` dentro de los archivos de tu misión.
+3. Guarda el archivo del Loadout `loadouts\rifleman.sqf`.
+
+#### Paso 2: Configurar el Objeto Interactivo:
+1. Selecciona el objeto.
+2. Abre sus atributos.
+3. Inserta el siguiente script en el campo Init *(No olvides cambiar el nombre del archivo sqf)*.
+```
+this addAction [
+    "<t color='#00FF00'>Colocar Equipo</t>",
+    {
+        params ["_target", "_caller", "_actionId", "_arguments"];
+
+        private _loadout = call compile preprocessFileLineNumbers "loadouts\rifleman.sqf";
+
+        _caller setUnitLoadout _loadout;
+
+        hint "Equipo colocado correctamente.";
+    },
+    nil,
+    1.5,
+    true,
+    true,
+    "",
+    "alive _this && _this distance _target < 3"
+];
+```
+
+<p align="center">
+<img width="800" height="450" alt="archivo_sqf" src="https://github.com/user-attachments/assets/a12f46c9-07fe-4822-910d-b25c387452c4" />
 </p>
 
 ## 🪖 Estructura de Roles
