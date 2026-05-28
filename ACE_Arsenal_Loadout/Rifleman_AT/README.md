@@ -22,7 +22,7 @@ El lanzador desechable representa una capacidad puntual para neutralizar amenaza
 - No necesita de roles ACE para desempeñar sus actividades.
 
 <p align="center">
-<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/ae8b6776-7902-491c-a04c-448865080e59" />
+<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/70f5978f-818d-4290-8210-321318b28eda" />
 </p>
 
 ---
