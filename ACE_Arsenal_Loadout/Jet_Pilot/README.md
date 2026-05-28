@@ -7,21 +7,68 @@ El **Jet Pilot (Piloto de Jet)** es el operador encargado de emplear aeronaves d
 Este rol requiere dominio del despegue, navegación, control de altitud, gestión de velocidad, empleo de armamento y procedimientos de aterrizaje. El piloto debe ser capaz de identificar objetivos, seleccionar el tipo de armamento adecuado, ejecutar pasadas de ataque de forma controlada y retirarse del área sin comprometer la aeronave.
 
 Durante la operación, el Jet Pilot debe mantener conciencia situacional del terreno, amenazas antiaéreas, combustible, munición disponible y estado general de la aeronave.
+
 ---
 
 ### 🧩 Mod Requerido
-- **Arma 3 Workshop:** [ACE](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057)
+**Arma 3 Workshop:**
+- [Hatchet H-60 pack - Stable Version](https://steamcommunity.com/sharedfiles/filedetails/?id=1745501605)
+- [KAT - Advanced Medical](https://steamcommunity.com/sharedfiles/filedetails/?id=2020940806)
 
 ---
 
 ### 🩺 Rol ACE Requerido
 
-- **ACE Rol:** N/A
-- No necesita de roles ACE para desempeñar sus actividades.
+- **ACE Rol:** Engineer
 
 <p align="center">
-<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/937b5305-d88a-4e61-bda4-d74ba632d13d" />
+<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/dc71a824-d835-43d8-a949-ac595e92e9cb" />
 </p>
+
+---
+
+## ⌚ Reloj
+
+### 📖 Descripción
+
+El **Piloto de Jet** debe contar con un reloj tipo **Katmin K500** o accesorio equivalente que le proporcione información operativa útil durante el vuelo y en situaciones de emergencia.
+
+Este equipo funciona como un instrumento personal de apoyo, permitiendo al piloto consultar datos importantes como **saturación de oxígeno, pulsaciones por minuto, altitud, temperatura, brújula** y otros indicadores relevantes según la configuración del mod utilizado.
+
+<p align="center">
+<img width="200" height="253" alt="KatminK500" src="https://github.com/user-attachments/assets/b306e701-cd33-4a72-a8f1-72a868664f8b" />
+</p>
+
+El uso de este reloj es especialmente útil durante vuelos prolongados, operaciones a baja visibilidad, navegación en terreno complejo, vuelos a diferentes altitudes o situaciones donde el piloto necesite mantener conciencia situacional sin depender únicamente de los instrumentos de la aeronave.
+
+Aunque no sustituye los sistemas propios del aeronave, el Katmin K500 proporciona una referencia adicional que puede ayudar al piloto a mantener control sobre su estado físico, orientación y condiciones del entorno durante la operación.
+
+### 📦 Equipamiento
+
+| Reloj / Accesorio | Uso |
+|--------|--------|
+| Katmin K500 | Instrumento personal de vuelo |
+
+---
+
+## 📻 Radio Personal
+
+### 📖 Descripción
+
+El **Piloto de Jet** debe contar con una radio personal que permita el uso de **canal adicional**, preferentemente con el mayor alcance disponible para radios portátiles, como una configuración de hasta **5,000 m**.
+
+Esta radio le permite mantener comunicación efectiva en corto alcance con tropas en tierra y otras aeronaves cercanas, sin necesidad de portar una radio de largo alcance adicional. Para comunicaciones de mayor alcance, el piloto debe utilizar la radio larga integrada en la aeronave.
+
+Durante operaciones aéreas, el piloto puede necesitar mantenerse atento a más de una red de comunicación al mismo tiempo, como la frecuencia de coordinación aérea, la comunicación con otras aeronaves en vuelo y la comunicación con tropas en tierra durante apoyo logístico.
+
+El uso de una radio personal con canal adicional permite monitorear dos frecuencias de corto alcance simultáneamente, reduciendo la pérdida de información crítica y mejorando la coordinación durante maniobras aéreas, aproximaciones, aterrizajes y operaciones en zona caliente.
+
+### 📦 Equipamiento
+
+| Facción | Radio | Rango |
+|--------|--------|--------|
+| BLUFOR | AN/PRC-152 | 5,000 m |
+| OPFOR | FADAK | 5,000 m |
 
 ---
 
@@ -39,6 +86,8 @@ El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Est
 
 | Cantidad | Objeto |
 |--------|--------|
+| 2 | Rifle Ammunition (primaria) |
+| 1 | Smoke Grenade (green) |
 | 2 | Earplugs |
 | 1 | Fulton MX-991 |
 | 2 | 16g IV |
@@ -56,60 +105,25 @@ El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Est
 
 ---
 
-## 🦺 Chaleco
+## 🎒 Leg Strap Bag (Piernera)
 
 ### 📖 Descripción
 
-El chaleco contiene el equipo táctico de combate inmediato, incluyendo munición, herramientas de control y elementos de señalización. Este equipamiento permite al operador defenderse y operar dentro del combate activo.
+El Piloto de Jet no porta una mochila táctica convencional. Su configuración debe mantenerse ligera y orientada a la operación aérea, ya que el exceso de peso puede afectar la movilidad del piloto y, dependiendo de la configuración de la misión, influir negativamente en el desempeño general de la aeronave.
+
+En lugar de una mochila, puede portar una piernera (Leg Strap Bag) con una Toolkit, especialmente si la misión permite mantenimiento básico, reparación en campo o configuración técnica de la aeronave.
 
 ### ⚖️ Peso estimado
 
-`~ 5.78 kg / 12.75 lb`
+`~ 3.99 kg / 8.8 lb`
 
 ### 📦 Equipamiento
 
 | Cantidad | Objeto |
 |--------|--------|
-| 6 | Rifle Ammunition (primaria) |
-| 2 | Handgun Ammunition (secundaria) |
-| 2 | Fragmentation Grenade |
-| 2 | Smoke Grenade (white) |
-| 1 | Smoke Grenade (green) |
-| 1 | Smoke Grenade (purple) |
-| 1 | Smoke Grenade (red) |
-| 5 | Cable Tie (cinchos / esposas) |
+| 1 | Toolkit |
 
----
-
-## 🎒 Mochila
-
-### 📖 Descripción
-
-El Piloto de Jet no porta una mochila táctica convencional. En su lugar, utiliza una piernera con una Toolbox, manteniendo una configuración mínima y ligera acorde a su función dentro de la aeronave.
-
-La Toolbox es indispensable para realizar tareas de mantenimiento básico sobre la aeronave y para modificar o cambiar los pylons cuando la configuración de la misión lo requiera. Sin esta herramienta, el piloto no podría ejecutar estos ajustes técnicos en campo.
-
-### ⚖️ Peso estimado
-
-`~ 12.34 kg / 27.20 lb`
-
-### 📦 Equipamiento
-
-| Cantidad | Objeto |
-|--------|--------|
-| 20 | 40 mm HE Grenade Round |
-| 5 | Smoke Round (White) |
-| 2 | Smoke Round (Blue) |
-| 2 | Smoke Round (Green) |
-| 2 | Smoke Round (Purple) |
-| 2 | Smoke Round (Red) |
-| 1 | HuntIR Monitor |
-| 5 | HuntIR Round |
-| 10 | Illumination Round (White) |
-
-> **Nota:** El **HuntIR Monitor** y las **HuntIR Round** son elementos situacionales orientados a reconocimiento y observación desde el lanzagranadas. Su uso tiene mayor sentido en misiones donde se requiera inspeccionar zonas de difícil acceso, confirmar posiciones enemigas o apoyar la toma de decisiones antes de avanzar.
-
-> Las **Illumination Round (White)** también son municiones situacionales. Se recomienda incluirlas únicamente en misiones nocturnas, operaciones con baja visibilidad o escenarios donde se requiera iluminar zonas de combate, rutas de avance o posiciones enemigas. En misiones diurnas, estos elementos pueden omitirse o reemplazarse por munición de mayor utilidad táctica.
+> **Nota:** La **Toolkit** es un elemento esencial para el piloto, ya que permite realizar mantenimiento básico sobre la aeronave y ejecutar tareas técnicas como el cambio o ajuste de **pylons (armamento)** cuando la configuración de la misión lo requiera. Sin esta herramienta, el piloto puede quedar limitado para reconfigurar armamento, atender daños menores o preparar la aeronave para una nueva salida operativa.
 
 ---
 
