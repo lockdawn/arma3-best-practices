@@ -49,7 +49,7 @@ Este código permite:
 
 ## 🧠 Cómo Utilizarlo
 
-### Importar Loadout en el ACE Arsenal:
+### 1. Importar Loadout en el ACE Arsenal:
 
 1. Copia el código ACE.
 2. Edita el Loadout desde el ACE Arsenal.
@@ -59,7 +59,7 @@ Este código permite:
   <img width="800" height="450" alt="Ace_Arsenal" src="https://github.com/user-attachments/assets/9891702b-edfa-4626-a2f6-1c414fc888fd" />
 </p>
 
-### Aplicar Loadout desde el `Init` de la unidad:
+### 2. Aplicar Loadout desde el `Init` de la unidad:
 
 1. Selecciona la unidad.
 2. Abre sus atributos.
@@ -74,7 +74,7 @@ this setUnitLoadout ACE_CODE;
   <img width="800" height="450" alt="ezgif-480a39fbc38a0827" src="https://github.com/user-attachments/assets/5638d40f-c2d5-421a-b3f9-f4f813e53c9a" />
 </p>
 
-### Aplicar Loadouts desde un Objeto Interactivo.
+### 3. Aplicar Loadouts desde un Objeto Interactivo.
 
 #### Paso 1: Descargar y guardar archivo sqf del Loadout:
 1. Descarga el código ACE.
