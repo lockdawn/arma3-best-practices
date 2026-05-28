@@ -109,6 +109,8 @@ El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Est
 
 El chaleco contiene el equipo táctico de combate inmediato, incluyendo munición, herramientas de control y elementos de señalización. Este equipamiento permite al operador defenderse y operar dentro del combate activo.
 
+Estos elementos permiten al Tripulante de Helicóptero realizar intervenciones inmediatas en caso de emergencia, defenderse si queda aislado después de una eyección o aterrizaje forzoso, y marcar su posición para facilitar identificación, extracción o recuperación por parte de fuerzas aliadas.
+
 El resto del equipo debe limitarse a elementos esenciales de navegación, comunicación, señalización y supervivencia, evitando cargas innecesarias que no estén relacionadas directamente con su función como piloto.
 
 ### ⚖️ Peso estimado
@@ -150,10 +152,10 @@ En lugar de una mochila, puede portar una piernera (Leg Strap Bag) con una Toolk
 |--------|--------|
 | 1 | Toolkit |
 
-> **Nota:** La **Toolbox** es un elemento esencial para el piloto, ya que permite realizar mantenimiento básico sobre la aeronave y ejecutar tareas técnicas como el cambio o ajuste de **pylons (armamento)** cuando la configuración de la misión lo requiera. Sin esta herramienta, el piloto puede quedar limitado para reconfigurar armamento, atender daños menores o preparar la aeronave para una nueva salida operativa.
+> **Nota:** La **Toolkit** es un elemento esencial para el piloto, ya que permite realizar mantenimiento básico sobre la aeronave y ejecutar tareas técnicas como el cambio o ajuste de **pylons (armamento)** cuando la configuración de la misión lo requiera. Sin esta herramienta, el piloto puede quedar limitado para reconfigurar armamento, atender daños menores o preparar la aeronave para una nueva salida operativa.
 
 ---
 
 ## Nota Final
 
-El  es fundamental para mejorar la seguridad, control y eficiencia de las operaciones aéreas. Su presencia permite reducir la carga de trabajo del piloto, mejorar la observación del entorno, apoyar a la tropa embarcada y mantener mayor control durante maniobras críticas.
+El Helicopter Crew (Tripulante de Helicóptero) es fundamental para mejorar la seguridad, control y eficiencia de las operaciones aéreas. Su presencia permite reducir la carga de trabajo del piloto, mejorar la observación del entorno, apoyar a la tropa embarcada y mantener mayor control durante maniobras críticas.
