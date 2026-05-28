@@ -150,7 +150,7 @@ En lugar de una mochila, puede portar una piernera (Leg Strap Bag) con una Toolk
 |--------|--------|
 | 1 | Toolkit |
 
-> **Nota:** La **Toolbox** es un elemento esencial para el piloto, ya que permite realizar mantenimiento básico sobre la aeronave y ejecutar tareas técnicas como el cambio o ajuste de **pylons (armamento)** cuando la configuración de la misión lo requiera. Sin esta herramienta, el piloto puede quedar limitado para reconfigurar armamento, atender daños menores o preparar la aeronave para una nueva salida operativa.
+> **Nota:** La **Toolkit** es un elemento esencial para el piloto, ya que permite realizar mantenimiento básico sobre la aeronave y ejecutar tareas técnicas como el cambio o ajuste de **pylons (armamento)** cuando la configuración de la misión lo requiera. Sin esta herramienta, el piloto puede quedar limitado para reconfigurar armamento, atender daños menores o preparar la aeronave para una nueva salida operativa.
 
 ---
 
