@@ -59,11 +59,11 @@ Este código permite:
   <img width="800" height="450" alt="Ace_Arsenal" src="https://github.com/user-attachments/assets/9891702b-edfa-4626-a2f6-1c414fc888fd" />
 </p>
 
-### Aplicar Loadout desde el `init` de la unidad:
+### Aplicar Loadout desde el `Init` de la unidad:
 
 1. Selecciona la unidad.
 2. Abre sus atributos.
-3. Inserta el siguiente script en el campo Init:
+3. Inserta el siguiente script en el campo `Init`:
 ```sqf
 this setUnitLoadout ACE_CODE;
 ```
@@ -84,7 +84,7 @@ this setUnitLoadout ACE_CODE;
 #### Paso 2: Configurar el Objeto Interactivo:
 1. Selecciona el objeto.
 2. Abre sus atributos.
-3. Inserta el siguiente script en el campo Init *(No olvides cambiar el nombre del archivo sqf)*.
+3. Inserta el siguiente script en el campo `Init` *(No olvides cambiar el nombre del archivo sqf)*.
 ```
 this addAction [
     "<t color='#00FF00'>Colocar Equipo</t>",
