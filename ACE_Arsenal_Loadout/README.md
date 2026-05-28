@@ -24,7 +24,7 @@ Este compendio está orientado para la comunidad FEL milsim y sus creadores de m
 
 Cada rol dentro de este compendio incluye dos elementos principales:
 
-### 🧾 1. Lista de Equipamiento y Permisos ACE
+### 🧾 Lista de Equipamiento y Permisos ACE
 
 Una lista detallada de los objetos y permisos ACE necesarios para el rol, que puede o no incluir:
 
@@ -37,7 +37,7 @@ Una lista detallada de los objetos y permisos ACE necesarios para el rol, que pu
 - Objetos específicos del rol (explosivos, designadores, etc.).
 - Permisos ACE para rol (eod, ingeniero, medico, etc.).
 
-### 💻 2. ACE Arsenal Loadout Code (Código de Inventario)
+### 💻 ACE Arsenal Loadout Code (Código de Inventario)
 
 Cada rol incluye un **Loadout Code**, que corresponde a una exportación completa del inventario generada desde el ACE Arsenal.
 
@@ -46,6 +46,8 @@ Este código permite:
 - Aplicar un equipamiento completo de forma instantánea.
 - Copiar y pegar directamente en el editor Eden.
 - Mantener consistencia entre jugadores y misiones.
+
+---
 
 ## 🪖 Estructura de Roles
 
@@ -64,6 +66,8 @@ Médico
 ├── README.md
 └── ace-arsenal-loadout_medic.sqf
 ```
+
+---
 
 ## 🧠 Cómo Utilizarlo
 
@@ -165,6 +169,8 @@ Colocar Equipo
 <p align="center">
 <img width="800" height="450" alt="archivo_sqf" src="https://github.com/user-attachments/assets/a12f46c9-07fe-4822-910d-b25c387452c4" />
 </p>
+
+---
 
 ## ⚠️ Consideraciones Importantes
 
