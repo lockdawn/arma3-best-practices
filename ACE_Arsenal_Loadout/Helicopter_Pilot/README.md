@@ -27,11 +27,33 @@ Durante la operación, el Helicopter Pilot debe mantener conciencia situacional 
 
 ---
 
+## ⌚ Reloj
+
+### 📖 Descripción
+
+El **Piloto de Helicóptero** debe contar con un reloj tipo **Katmin K500** o accesorio equivalente que le proporcione información operativa útil durante el vuelo y en situaciones de emergencia.
+
+Este equipo funciona como un instrumento personal de apoyo, permitiendo al piloto consultar datos importantes como **saturación de oxígeno, pulsaciones por minuto, altitud, temperatura, brújula** y otros indicadores relevantes según la configuración del mod utilizado.
+
+El uso de este reloj es especialmente útil durante vuelos prolongados, operaciones a baja visibilidad, navegación en terreno complejo, vuelos a diferentes altitudes o situaciones donde el piloto necesite mantener conciencia situacional sin depender únicamente de los instrumentos de la aeronave.
+
+Aunque no sustituye los sistemas propios del helicóptero, el Katmin K500 proporciona una referencia adicional que puede ayudar al piloto a mantener control sobre su estado físico, orientación y condiciones del entorno durante la operación.
+
+### 📦 Equipamiento
+
+| Reloj / Accesorio | Uso |
+|--------|--------|
+| Katmin K500 | Instrumento personal de vuelo |
+
+---
+
 ## 📻 Radio Personal
 
 ### 📖 Descripción
 
-El **Piloto de Helicóptero** debe contar con una radio personal que permita el uso de **canal adicional**, preferentemente con el mayor alcance posible (5,000 m) sin necesidad de portar una radio de largo alcance.
+El **Piloto de Helicóptero** debe contar con una radio personal que permita el uso de **canal adicional**, preferentemente con el mayor alcance disponible para radios portátiles, como una configuración de hasta **5,000 m**.
+
+Esta radio le permite mantener comunicación efectiva en corto alcance con tropas en tierra y otras aeronaves cercanas, sin necesidad de portar una radio de largo alcance adicional. Para comunicaciones de mayor alcance, el piloto debe utilizar la radio larga integrada en la aeronave.
 
 Durante operaciones aéreas, el piloto puede necesitar mantenerse atento a más de una red de comunicación al mismo tiempo, como la frecuencia de coordinación aérea, la comunicación con otras aeronaves en vuelo y la comunicación con tropas en tierra durante inserciones, extracciones, evacuaciones o apoyo logístico.
 
@@ -112,7 +134,7 @@ El resto del equipo debe limitarse a elementos esenciales de navegación, comuni
 
 El Helicopter Pilot no porta una mochila táctica convencional. Su configuración debe mantenerse ligera y orientada a la operación aérea, ya que el exceso de peso puede afectar la movilidad del piloto y, dependiendo de la configuración de la misión, influir negativamente en el desempeño general de la aeronave.
 
-En lugar de una mochila, puede portar una piernera (Leg Strap Bag) con una Toolbox, especialmente si la misión permite mantenimiento básico, reparación en campo o configuración técnica de la aeronave. La Toolbox puede ser necesaria para atender daños menores, realizar ajustes operativos o apoyar tareas de mantenimiento cuando la aeronave se encuentra en base, FOB o zona segura.
+En lugar de una mochila, puede portar una piernera (Leg Strap Bag) con una Toolkit, especialmente si la misión permite mantenimiento básico, reparación en campo o configuración técnica de la aeronave.
 
 ### ⚖️ Peso estimado
 
@@ -124,7 +146,7 @@ En lugar de una mochila, puede portar una piernera (Leg Strap Bag) con una Toolb
 |--------|--------|
 | 1 | Toolkit |
 
-> **Nota:** La **Toolbox** es un elemento esencial para el piloto, ya que permite realizar mantenimiento básico sobre la aeronave y ejecutar tareas técnicas como el cambio o ajuste de **pylons** cuando la configuración de la misión lo requiera. Sin esta herramienta, el piloto puede quedar limitado para reconfigurar armamento, atender daños menores o preparar la aeronave para una nueva salida operativa.
+> **Nota:** La **Toolbox** es un elemento esencial para el piloto, ya que permite realizar mantenimiento básico sobre la aeronave y ejecutar tareas técnicas como el cambio o ajuste de **pylons (armamento)** cuando la configuración de la misión lo requiera. Sin esta herramienta, el piloto puede quedar limitado para reconfigurar armamento, atender daños menores o preparar la aeronave para una nueva salida operativa.
 
 ---
 
