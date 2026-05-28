@@ -47,6 +47,24 @@ Este código permite:
 - Copiar y pegar directamente en el editor Eden.
 - Mantener consistencia entre jugadores y misiones.
 
+## 🪖 Estructura de Roles
+
+Cada rol sigue una estructura clara:
+
+```
+Nombre del Rol
+├── Lista de Equipamiento
+└── ACE Loadout Code
+```
+
+Ejemplo:
+
+```
+Médico
+├── README.md
+└── ace-arsenal-loadout_medic.sqf
+```
+
 ## 🧠 Cómo Utilizarlo
 
 ### 1. Importar Loadout en el ACE Arsenal:
@@ -147,24 +165,6 @@ Colocar Equipo
 <p align="center">
 <img width="800" height="450" alt="archivo_sqf" src="https://github.com/user-attachments/assets/a12f46c9-07fe-4822-910d-b25c387452c4" />
 </p>
-
-## 🪖 Estructura de Roles
-
-Cada rol sigue una estructura clara:
-
-```
-Nombre del Rol
-├── Lista de Equipamiento
-└── ACE Loadout Code
-```
-
-Ejemplo:
-
-```
-Médico
-├── README.md
-└── ace-arsenal-loadout_medic.sqf
-```
 
 ## ⚠️ Consideraciones Importantes
 
