@@ -52,16 +52,17 @@ Este código permite:
 En Eden Editor
 
 1. Selecciona la unidad.
-2. Abre el campo Init.
-3. Inserta el Loadout Code:
-
+2. Abre sus atributos.
+3. Inserta el siguiente script en el campo Init:
 ```sqf
 this setUnitLoadout ACE_CODE;
 ```
+4. Sustituye **ACE_CODE** por el Loadout Code:
+5. Guarda y prueba.
 
-4. Guarda y prueba la misión.
-
+<p align="center">
 <img width="800" height="450" alt="ezgif-480a39fbc38a0827" src="https://github.com/user-attachments/assets/5638d40f-c2d5-421a-b3f9-f4f813e53c9a" />
+</p>
 
 ## 🪖 Estructura de Roles
 
