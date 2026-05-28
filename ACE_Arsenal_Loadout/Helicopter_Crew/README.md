@@ -22,7 +22,7 @@ El Helicopter Crew debe mantenerse ligero, contar con equipo de comunicación ad
 - **ACE Rol:** Engineer
 
 <p align="center">
-<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/dc71a824-d835-43d8-a949-ac595e92e9cb" />
+<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/974027a8-5c2b-4dab-a244-3cb18e2576fc" />
 </p>
 
 ---
