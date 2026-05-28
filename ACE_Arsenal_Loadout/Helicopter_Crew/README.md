@@ -109,9 +109,9 @@ El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Est
 
 El chaleco contiene el equipo táctico de combate inmediato, incluyendo munición, herramientas de control y elementos de señalización. Este equipamiento permite al operador defenderse y operar dentro del combate activo.
 
-Estos elementos permiten al Tripulante de Helicóptero realizar intervenciones inmediatas en caso de emergencia, defenderse si queda aislado después de una eyección o aterrizaje forzoso, y marcar su posición para facilitar identificación, extracción o recuperación por parte de fuerzas aliadas.
+Estos elementos permiten al tripulante realizar intervenciones inmediatas en caso de emergencia, defenderse si queda aislado después de una eyección o aterrizaje forzoso, y marcar su posición para facilitar identificación, extracción o recuperación por parte de fuerzas aliadas.
 
-El resto del equipo debe limitarse a elementos esenciales de navegación, comunicación, señalización y supervivencia, evitando cargas innecesarias que no estén relacionadas directamente con su función como piloto.
+El resto del equipo debe limitarse a elementos esenciales de navegación, comunicación, señalización y supervivencia, evitando cargas innecesarias que no estén relacionadas directamente con su función como Tripulante de Helicóptero.
 
 ### ⚖️ Peso estimado
 
