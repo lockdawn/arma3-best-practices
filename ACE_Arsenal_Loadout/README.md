@@ -93,8 +93,6 @@ this setUnitLoadout ACE_CODE;
 
 Este método permite que los jugadores se acerquen a un objeto dentro de la misión, como un casillero, caja, laptop, arsenal o locker, y seleccionen una opción para colocarse automáticamente el equipamiento de un rol.
 
-#### Pasos
-
 #### Paso 1: Crear la carpeta de loadouts.
 - Dentro de la carpeta de la misión, crea una carpeta llamada `\loadouts`.
 - La estructura debería quedar similar a esto:
