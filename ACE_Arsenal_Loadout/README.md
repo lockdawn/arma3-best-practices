@@ -56,10 +56,12 @@ En Eden Editor
 3. Inserta el Loadout Code:
 
 ```sqf
-this setUnitLoadout [...];
+this setUnitLoadout ACE_CODE;
 ```
 
 4. Guarda y prueba la misión.
+
+<img width="800" height="450" alt="ezgif-480a39fbc38a0827" src="https://github.com/user-attachments/assets/5638d40f-c2d5-421a-b3f9-f4f813e53c9a" />
 
 ## 🪖 Estructura de Roles
 
