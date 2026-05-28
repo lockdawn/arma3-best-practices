@@ -27,6 +27,20 @@ Durante la operación, el Jet Pilot debe mantener conciencia situacional del ter
 
 ---
 
+## 🛰️ GPS
+
+### 📖 Descripción
+
+El **Piloto de Jet** debe contar con un **GPS** como herramienta de navegación y referencia durante operaciones aéreas.
+
+Este equipo permite al piloto consultar su posición en tiempo real, orientarse dentro del área de operaciones, identificar rutas de aproximación, zonas de patrullaje, puntos de referencia, objetivos asignados y áreas de exclusión o peligro.
+
+El uso del GPS es especialmente importante durante vuelos a alta velocidad, navegación en terreno amplio, operaciones con baja visibilidad o misiones donde el piloto deba desplazarse entre múltiples puntos de interés con precisión.
+
+Aunque no sustituye los instrumentos propios de la aeronave ni la información proporcionada por el mapa, el GPS ofrece una referencia rápida y constante que ayuda al piloto a mantener conciencia situacional, corregir rumbo y posicionarse correctamente antes, durante y después de una pasada de ataque o maniobra aérea.
+
+---
+
 ## ⌚ Reloj
 
 ### 📖 Descripción
@@ -80,7 +94,7 @@ El uniforme contiene el equipo básico de supervivencia y primeros auxilios, jun
 
 ### ⚖️ Peso estimado
 
-`~ 1.63 kg / 3.59 lb`
+`~ 6.35 kg / 13.99 lb`
 
 ### 📦 Equipamiento
 
