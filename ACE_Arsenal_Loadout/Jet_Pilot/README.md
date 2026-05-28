@@ -76,7 +76,7 @@ El uso de una radio personal con canal adicional permite monitorear dos frecuenc
 
 ### 📖 Descripción
 
-El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Estos elementos permiten al operador realizar intervenciones inmediatas en caso de emergencia, incluso antes de que el médico despliegue equipo especializado.
+El uniforme contiene el equipo básico de supervivencia y primeros auxilios, junto con munición para el arma principal y una granada de humo para señalización. Estos elementos permiten al piloto realizar intervenciones inmediatas en caso de emergencia, defenderse si queda aislado después de una eyección o aterrizaje forzoso, y marcar su posición para facilitar identificación, extracción o recuperación por parte de fuerzas aliadas.
 
 ### ⚖️ Peso estimado
 
