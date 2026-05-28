@@ -24,6 +24,25 @@ Durante la operación, el Helicopter Pilot debe mantener conciencia situacional 
 
 ---
 
+## 📻 Radio Personal
+
+### 📖 Descripción
+
+El **Piloto de Helicóptero** debe contar con una radio personal que permita el uso de **canal adicional**, preferentemente con el mayor alcance posible (5,000 m) sin necesidad de portar una radio de largo alcance.
+
+Durante operaciones aéreas, el piloto puede necesitar mantenerse atento a más de una red de comunicación al mismo tiempo, como la frecuencia de coordinación aérea, la comunicación con otras aeronaves en vuelo y la comunicación con tropas en tierra durante inserciones, extracciones, evacuaciones o apoyo logístico.
+
+El uso de una radio personal con canal adicional permite monitorear dos frecuencias de corto alcance simultáneamente, reduciendo la pérdida de información crítica y mejorando la coordinación durante maniobras aéreas, aproximaciones, aterrizajes y operaciones en zona caliente.
+
+### 📦 Equipamiento
+
+| Facción | Radio | Rango |
+|--------|--------|--------|
+| BLUFOR | AN/PRC-152 | 5,000 m |
+| OPFOR | FADAK | 5,000 m |
+
+---
+
 ## 👕 Uniforme
 
 ### 📖 Descripción
@@ -61,9 +80,11 @@ El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Est
 
 El chaleco contiene el equipo táctico de combate inmediato, incluyendo munición, herramientas de control y elementos de señalización. Este equipamiento permite al operador defenderse y operar dentro del combate activo.
 
+El resto del equipo debe limitarse a elementos esenciales de navegación, comunicación, señalización y supervivencia, evitando cargas innecesarias que no estén relacionadas directamente con su función como piloto.
+
 ### ⚖️ Peso estimado
 
-`~ 5.78 kg / 12.75 lb`
+`~ 3.26 kg / 7.18 lb`
 
 ### 📦 Equipamiento
 
@@ -92,7 +113,7 @@ En lugar de una mochila, puede portar una piernera (Leg Strap Bag) con una Toolb
 
 ### ⚖️ Peso estimado
 
-`~ 12.34 kg / 27.20 lb`
+`~ 3.99 kg / 8.8 lb`
 
 ### 📦 Equipamiento
 
@@ -100,9 +121,7 @@ En lugar de una mochila, puede portar una piernera (Leg Strap Bag) con una Toolb
 |--------|--------|
 | 1 | Toolkit |
 
-> **Nota:** El **HuntIR Monitor** y las **HuntIR Round** son elementos situacionales orientados a reconocimiento y observación desde el lanzagranadas. Su uso tiene mayor sentido en misiones donde se requiera inspeccionar zonas de difícil acceso, confirmar posiciones enemigas o apoyar la toma de decisiones antes de avanzar.
-
-> Las **Illumination Round (White)** también son municiones situacionales. Se recomienda incluirlas únicamente en misiones nocturnas, operaciones con baja visibilidad o escenarios donde se requiera iluminar zonas de combate, rutas de avance o posiciones enemigas. En misiones diurnas, estos elementos pueden omitirse o reemplazarse por munición de mayor utilidad táctica.
+> **Nota:** La **Toolbox** es un elemento esencial para el piloto, ya que permite realizar mantenimiento básico sobre la aeronave y ejecutar tareas técnicas como el cambio o ajuste de **pylons** cuando la configuración de la misión lo requiera. Sin esta herramienta, el piloto puede quedar limitado para reconfigurar armamento, atender daños menores o preparar la aeronave para una nueva salida operativa.
 
 ---
 
