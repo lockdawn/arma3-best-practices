@@ -9,7 +9,8 @@ Este rol opera integrado con su escuadra, manteniendo las responsabilidades gene
 ---
 
 ### 🧩 Mod Requerido
-- **Arma 3 Workshop:** [ACE](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057)
+**Arma 3 Workshop:**
+- [Advanced Combat Medicine](https://steamcommunity.com/sharedfiles/filedetails/?id=3235483358)
 
 ---
 
@@ -38,19 +39,21 @@ El uniforme contiene el equipo básico de supervivencia y primeros auxilios. Est
 
 | Cantidad | Objeto |
 |--------|--------|
-| 2 | Earplugs |
+| 1 | Earplugs |
 | 1 | Fulton MX-991 |
-| 2 | 16g IV |
-| 10 | Bandage (Elastic) |
-| 10 | Bandage (Packing) |
+| 1 | 14g IV |
+| 1 | 16g IV |
+| 2 | Blood Bag O- (250ml) |
+| 1 | Blood Bag O- (500ml) |
 | 2 | Chest Seal |
-| 1 | Combat Pill Pack |
-| 2 | Eye Washer |
-| 2 | Guedel Tube |
-| 1 | Hand Warmer |
-| 1 | Plasma IV (250ml) |
-| 1 | Saline IV (250ml) |
-| 2 | Splint |
+| 3 | Emergency Trauma Dressing |
+| 1 | Epinephrine Autoinjector |
+| 1 | Fentanyl Lozange |
+| 1 | Field Blood Transfusion Kit (500ml) |
+| 1 | NCD Kit |
+| 1 | OPA |
+| 1 | Paracetamol |
+| 10 | Pressure Bandage |
 | 4 | Tourniquet (CAT) |
 
 ---

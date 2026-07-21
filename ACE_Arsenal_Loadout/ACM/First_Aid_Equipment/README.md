@@ -13,7 +13,8 @@ El First Aid Equipment debe estar ubicado preferentemente en el **uniforme**, ya
 ---
 
 ### 🧩 Mod Requerido
-- **Arma 3 Workshop:** [Advanced Combat Medicine](https://steamcommunity.com/sharedfiles/filedetails/?id=3235483358)
+**Arma 3 Workshop:**
+- [Advanced Combat Medicine](https://steamcommunity.com/sharedfiles/filedetails/?id=3235483358)
 
 ---
 
