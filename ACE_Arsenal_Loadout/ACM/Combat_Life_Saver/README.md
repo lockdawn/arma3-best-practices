@@ -92,47 +92,56 @@ La mochila está reservada para equipo especializado. En el caso del médico, co
 
 ### ⚖️ Peso estimado
 
-`~ 10.30 kg / 22.71 lb`
+`~ 14.52 kg / 32.00 lb`
 
 ### 📦 Equipamiento
 
 | Cantidad | Objeto |
 |--------|--------|
-| 6 | 16g IV |
-| 1 | AAT Kit |
-| 1 | Adenosine Autoinjector |
-| 1 | Ammonium Carbonate |
-| 2 | Atropine Autoinjector |
+| 10 | 14g IV |
+| 10 | 16g IV |
+| 10 | Amiodarone Vial (150mg/3ml) |
+| 2 | Ammonia Inhalant |
 | 1 | Automated External Defibrillator |
-| 10 | Bandage (Elastic) |
-| 15 | Bandage (Packing) |
-| 3 | Body Bag (Blue) |
-| 2 | Caffeine Bottle |
-| 6 | Chest Seal |
-| 1 | Coag-Sense |
-| 3 | Combat Pill Pack |
-| 4 | EACA |
-| 4 | Epinephrine Autoinjector |
-| 3 | Eye Washer |
-| 4 | Fluid Line Warmer |
-| 5 | Guedel Tube |
-| 1 | Handheld Ultrasound |
-| 3 | IV Epinephrine |
-| 6 | Ketamine |
-| 4 | Manual Suction Pump |
-| 4 | Morphine Autoinjector |
-| 3 | NCD Kit |
-| 5 | Phenylephrine Autoinjector |
-| 4 | Plasma IV (1000ml) |
-| 4 | Plasma IV (250ml) |
-| 2 | Plasma IV (500ml) |
+| 3 | Blood Bag O- (1000ml) |
+| 6 | Blood Bag O- (500ml) |
+| 5 | Calcium Chloride (1g/10ml) |
+| 10 | Chest Seal |
+| 3 | Chest Tube Kit |
+| 1 | Cric Kit |
+| 12 | Elastic Wrap |
+| 5 | Emergency Disposable Suction Bag |
+| 13 | Emergency Trauma Dressing |
+| 3 | Epinephrine Autoinjector |
+| 10 | Epinephrine Vial (1mg/1ml) |
+| 4 | EZ-IO |
+| 5 | Fast1 IO |
+| 2 | Fentanyl Lozenge |
+| 5 | Fentanyl Vial (100mcg/2ml) |
+| 10 | i-gel |
+| 5 | Ketamine Vial (500mg/10ml) |
+| 5 | Lidocaine Vial (100mg/5ml) |
+| 10 | Morphine Vial (10mg/2ml) |
+| 1 | Naloxone Nasal Spray |
+| 5 | NCD Kit |
+| 5 | NPA |
+| 5 | Ondansetron Vial (4mg/2ml) |
+| 2 | Paracetamol |
+| 1 | Penthrox Inhaler |
+| 2 | Plasma IV (1000ml) |
+| 20 | Pressure Bandage |
+| 1 | Pressure Cuff |
 | 2 | Pulse Oximeter |
-| 2 | Saline IV (250ml) |
-| 2 | Splint |
+| 4 | SAM Splint |
 | 1 | Stethoscope |
 | 1 | Surgical Kit |
+| 2 | Syringe (10ml) |
+| 2 | Syringe (1ml) |
+| 2 | Syringe (3ml) |
+| 2 | Syringe (5ml) |
+| 4 | Thoracostomy Kit |
 | 8 | Tourniquet (CAT) |
-| 4 | TXA |
+| 10 | TXA Vial (1g/10ml) |
 
 ---
 
