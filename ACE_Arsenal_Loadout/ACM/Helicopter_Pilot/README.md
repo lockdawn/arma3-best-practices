@@ -31,23 +31,23 @@ Durante la operación, el Helicopter Pilot debe mantener conciencia situacional 
 
 ### 📖 Descripción
 
-El **Piloto de Helicóptero** debe contar con un reloj tipo **Katmin K500** o accesorio equivalente que le proporcione información operativa útil durante el vuelo y en situaciones de emergencia.
+El **Piloto de Helicóptero** debe contar con un **reloj altímetro** o accesorio equivalente que le proporcione información operativa útil durante el vuelo y en situaciones de emergencia.
 
-Este equipo funciona como un instrumento personal de apoyo, permitiendo al piloto consultar datos importantes como **saturación de oxígeno, pulsaciones por minuto, altitud, temperatura, brújula** y otros indicadores relevantes según la configuración del mod utilizado.
+Este equipo funciona como un instrumento personal de apoyo, permitiendo al piloto consultar datos importantes como **altitud, tiempo de vuelo, orientación** y otros indicadores de navegación relevantes según la configuración del mod utilizado.
 
 <p align="center">
-<img width="200" height="253" alt="KatminK500" src="https://github.com/user-attachments/assets/b306e701-cd33-4a72-a8f1-72a868664f8b" />
+<img width="200" height="300" alt="Altimeter" src="https://github.com/user-attachments/assets/5fe6a3cf-aaa1-44cb-8253-6c626bee1d13" />
 </p>
 
-El uso de este reloj es especialmente útil durante vuelos prolongados, operaciones a baja visibilidad, navegación en terreno complejo, vuelos a diferentes altitudes o situaciones donde el piloto necesite mantener conciencia situacional sin depender únicamente de los instrumentos de la aeronave.
+El uso de este reloj es especialmente útil durante vuelos prolongados, operaciones a baja visibilidad, navegación en terreno complejo, cambios constantes o saltos a diferentes altitudes, o situaciones donde el piloto necesite mantener conciencia situacional sin depender únicamente de los instrumentos integrados de la aeronave.
 
-Aunque no sustituye los sistemas propios del helicóptero, el Katmin K500 proporciona una referencia adicional que puede ayudar al piloto a mantener control sobre su estado físico, orientación y condiciones del entorno durante la operación.
+Aunque no sustituye los sistemas propios del helicóptero, el reloj altímetro proporciona una referencia adicional que puede ayudar al piloto a mantener control sobre su altitud, orientación y condiciones del entorno durante la operación.
 
 ### 📦 Equipamiento
 
 | Reloj / Accesorio | Uso |
 |--------|--------|
-| Katmin K500 | Instrumento personal de vuelo |
+| Altimeter Watch | Instrumento personal de vuelo |
 
 ---
 
