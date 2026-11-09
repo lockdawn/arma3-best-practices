@@ -13,7 +13,6 @@ Durante la operación, el Helicopter Pilot debe mantener conciencia situacional 
 ### 🧩 Mod Requerido
 **Arma 3 Workshop:**
 - [Hatchet H-60 pack - Stable Version](https://steamcommunity.com/sharedfiles/filedetails/?id=1745501605)
-- [Advanced Combat Medicine](https://steamcommunity.com/sharedfiles/filedetails/?id=3235483358)
 
 ---
 
