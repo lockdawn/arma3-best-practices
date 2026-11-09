@@ -19,10 +19,10 @@ Durante la operación, el Helicopter Pilot debe mantener conciencia situacional 
 
 ### 🩺 Rol ACE Requerido
 
-- **ACE Rol:** Engineer
+- **ACE Rol:** Adv. Engineer
 
 <p align="center">
-<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/dc71a824-d835-43d8-a949-ac595e92e9cb" />
+<img width="357" height="479" alt="image" src="https://github.com/user-attachments/assets/8a0d4208-b9dc-417e-a1ba-5218b6cd4dac" />
 </p>
 
 ---
