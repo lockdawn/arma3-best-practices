@@ -126,7 +126,6 @@ El resto del equipo debe limitarse a elementos esenciales de navegación, comuni
 | 5 | Cable Tie (cinchos / esposas) |
 | 3 | Rifle Ammunition (primaria) |
 | 2 | Smoke Grenade (white) |
-| 1 | Smoke Grenade (blue) |
 | 1 | Smoke Grenade (green) |
 | 1 | MicroDAGR GPS |
 | 1 | IR Grenade |
