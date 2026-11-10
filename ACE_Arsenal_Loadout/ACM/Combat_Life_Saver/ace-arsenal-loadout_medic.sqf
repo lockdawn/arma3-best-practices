@@ -1,107 +1,339 @@
 [
-  [
-    "arifle_MX_F",
-    "",
-    "",
-    "",
-    [ "30Rnd_65x39_caseless_mag", 30 ],
-    [],
-    ""
-  ],
-  [],
-  [
-    "hgun_Pistol_heavy_01_F",
-    "",
-    "",
-    "",
-    [ "11Rnd_45ACP_Mag", 15 ],
-    [],
-    ""
-  ],
-  [
-    "U_B_CombatUniform_mcam",
-    [
-      [ "ACE_EarPlugs", 2 ],
-      [ "ACE_Flashlight_MX991", 1 ],
-      [ "ACM_IV_14g", 1 ],
-      [ "ACM_IV_16g", 1 ],
-      [ "ACM_BloodBag_ON_250", 2 ],
-      [ "ACM_BloodBag_ON_500", 1 ],
-      [ "ACM_ChestSeal", 2 ],
-      [ "ACM_EmergencyTraumaDressing", 3 ],
-      [ "ACE_epinephrine", 1 ],
-      [ "ACM_Lozenge_Fentanyl", 1 ],
-      [ "ACM_FieldBloodTransfusionKit_500", 1 ],
-      [ "ACM_NCDKit", 1 ],
-      [ "ACM_OPA", 1 ],
-      [ "ACM_PressureBandage", 10 ],
-      [ "ACE_tourniquet", 4 ],
-      [ "ACM_Paracetamol", 1, 10 ]
-    ]
-  ],
-  [
-    "V_PlateCarrier1_rgr",
-    [
-      [ "ACE_CableTie", 5 ],
-      [ "30Rnd_65x39_caseless_mag", 6, 30 ],
-      [ "SmokeShellGreen", 1, 1 ],
-      [ "SmokeShellPurple", 2, 1 ],
-      [ "SmokeShell", 2, 1 ],
-      [ "HandGrenade", 1, 1 ],
-      [ "11Rnd_45ACP_Mag", 2, 15 ]
-    ]
-  ],
-  [
-    "B_Carryall_mcamo",
-    [
-      [ "ACM_BloodBag_ON_1000", 3 ],
-      [ "ACM_BloodBag_ON_500", 6 ],
-      [ "ACM_AED", 1 ],
-      [ "ACE_epinephrine", 3 ],
-      [ "ACM_Stethoscope", 1 ],
-      [ "ACM_IO_FAST", 5 ],
-      [ "ACM_SAMSplint", 4 ],
-      [ "ACM_IO_EZ", 4 ],
-      [ "ACM_IGel", 10 ],
-      [ "ACM_Syringe_1", 2 ],
-      [ "ACM_Syringe_10", 2 ],
-      [ "ACM_Syringe_3", 2 ],
-      [ "ACM_Syringe_5", 2 ],
-      [ "ACM_CricKit", 1 ],
-      [ "ACM_NCDKit", 5 ],
-      [ "ACM_ChestTubeKit", 3 ],
-      [ "ACM_ThoracostomyKit", 4 ],
-      [ "ACE_surgicalKit", 1 ],
-      [ "ACM_PressureCuff", 1 ],
-      [ "ACM_ChestSeal", 10 ],
-      [ "ACM_Lozenge_Fentanyl", 2 ],
-      [ "ACE_plasmaIV", 2 ],
-      [ "ACM_PulseOximeter", 2 ],
-      [ "ACM_Spray_Naloxone", 1 ],
-      [ "ACE_tourniquet", 8 ],
-      [ "ACM_NPA", 5 ],
-      [ "ACM_IV_14g", 10 ],
-      [ "ACM_IV_16g", 10 ],
-      [ "ACM_PressureBandage", 20 ],
-      [ "ACM_EmergencyTraumaDressing", 13 ],
-      [ "ACM_Vial_Amiodarone", 10 ],
-      [ "ACM_Vial_CalciumChloride", 5 ],
-      [ "ACM_Vial_Epinephrine", 10 ],
-      [ "ACM_Vial_Fentanyl", 5 ],
-      [ "ACM_Vial_Ketamine", 5 ],
-      [ "ACM_Vial_Lidocaine", 5 ],
-      [ "ACM_Vial_Morphine", 10 ],
-      [ "ACM_Vial_Ondansetron", 5 ],
-      [ "ACM_Vial_TXA", 10 ],
-      [ "ACM_ElasticWrap", 12 ],
-      [ "ACM_SuctionBag", 5 ],
-      [ "ACM_Inhaler_Penthrox", 1, 8 ],
-      [ "ACM_AmmoniaInhalant", 2, 8 ],
-      [ "ACM_Paracetamol", 2, 10 ]
-    ]
-  ],
-  "H_HelmetB",
-  "",
-  [],
-  [ "ItemMap", "", "TFAR_rf7800str", "ItemCompass", "TFAR_microdagr", "" ]
+	[
+		"arifle_MX_F",
+		"",
+		"",
+		"",
+		[
+			"30Rnd_65x39_caseless_mag",
+			30
+		],
+		[],
+		""
+	],
+	[],
+	[
+		"hgun_Pistol_heavy_01_F",
+		"",
+		"",
+		"",
+		[
+			"11Rnd_45ACP_Mag",
+			15
+		],
+		[],
+		""
+	],
+	[
+		"U_B_CombatUniform_mcam",
+		[
+			[
+				"ACE_EarPlugs",
+				2
+			],
+			[
+				"ACE_Flashlight_MX991",
+				1
+			],
+			[
+				"ACM_IV_14g",
+				1
+			],
+			[
+				"ACM_IV_16g",
+				1
+			],
+			[
+				"ACM_BloodBag_ON_250",
+				2
+			],
+			[
+				"ACM_BloodBag_ON_500",
+				1
+			],
+			[
+				"ACM_ChestSeal",
+				2
+			],
+			[
+				"ACM_EmergencyTraumaDressing",
+				3
+			],
+			[
+				"ACE_epinephrine",
+				1
+			],
+			[
+				"ACM_Lozenge_Fentanyl",
+				1
+			],
+			[
+				"ACM_FieldBloodTransfusionKit_500",
+				1
+			],
+			[
+				"ACM_NCDKit",
+				1
+			],
+			[
+				"ACM_OPA",
+				1
+			],
+			[
+				"ACM_PressureBandage",
+				10
+			],
+			[
+				"ACE_tourniquet",
+				4
+			],
+			[
+				"ACM_Paracetamol",
+				1,
+				10
+			]
+		]
+	],
+	[
+		"V_PlateCarrier1_rgr",
+		[
+			[
+				"ACE_CableTie",
+				5
+			],
+			[
+				"ACM_ACCUVAC",
+				1
+			],
+			[
+				"ACM_PocketBVM",
+				1
+			],
+			[
+				"30Rnd_65x39_caseless_mag",
+				6,
+				30
+			],
+			[
+				"SmokeShellGreen",
+				1,
+				1
+			],
+			[
+				"SmokeShellPurple",
+				2,
+				1
+			],
+			[
+				"SmokeShell",
+				2,
+				1
+			],
+			[
+				"HandGrenade",
+				1,
+				1
+			],
+			[
+				"11Rnd_45ACP_Mag",
+				2,
+				15
+			]
+		]
+	],
+	[
+		"B_Carryall_mcamo",
+		[
+			[
+				"ACM_BloodBag_ON_1000",
+				3
+			],
+			[
+				"ACM_BloodBag_ON_500",
+				6
+			],
+			[
+				"ACM_AED",
+				1
+			],
+			[
+				"ACE_epinephrine",
+				3
+			],
+			[
+				"ACM_Stethoscope",
+				1
+			],
+			[
+				"ACM_IO_FAST",
+				5
+			],
+			[
+				"ACM_SAMSplint",
+				4
+			],
+			[
+				"ACM_IO_EZ",
+				4
+			],
+			[
+				"ACM_IGel",
+				10
+			],
+			[
+				"ACM_Syringe_1",
+				2
+			],
+			[
+				"ACM_Syringe_10",
+				2
+			],
+			[
+				"ACM_Syringe_3",
+				2
+			],
+			[
+				"ACM_Syringe_5",
+				2
+			],
+			[
+				"ACM_CricKit",
+				1
+			],
+			[
+				"ACM_NCDKit",
+				5
+			],
+			[
+				"ACM_ChestTubeKit",
+				3
+			],
+			[
+				"ACM_ThoracostomyKit",
+				4
+			],
+			[
+				"ACE_surgicalKit",
+				1
+			],
+			[
+				"ACM_PressureCuff",
+				1
+			],
+			[
+				"ACM_ChestSeal",
+				10
+			],
+			[
+				"ACM_Lozenge_Fentanyl",
+				2
+			],
+			[
+				"ACE_plasmaIV",
+				2
+			],
+			[
+				"ACM_PulseOximeter",
+				2
+			],
+			[
+				"ACM_Spray_Naloxone",
+				1
+			],
+			[
+				"ACE_tourniquet",
+				8
+			],
+			[
+				"ACM_NPA",
+				5
+			],
+			[
+				"ACM_IV_14g",
+				10
+			],
+			[
+				"ACM_IV_16g",
+				10
+			],
+			[
+				"ACM_PressureBandage",
+				20
+			],
+			[
+				"ACM_EmergencyTraumaDressing",
+				13
+			],
+			[
+				"ACM_Vial_Amiodarone",
+				10
+			],
+			[
+				"ACM_Vial_CalciumChloride",
+				5
+			],
+			[
+				"ACM_Vial_Epinephrine",
+				10
+			],
+			[
+				"ACM_Vial_Fentanyl",
+				5
+			],
+			[
+				"ACM_Vial_Ketamine",
+				5
+			],
+			[
+				"ACM_Vial_Lidocaine",
+				5
+			],
+			[
+				"ACM_Vial_Morphine",
+				10
+			],
+			[
+				"ACM_Vial_Ondansetron",
+				5
+			],
+			[
+				"ACM_Vial_TXA",
+				10
+			],
+			[
+				"ACM_ElasticWrap",
+				12
+			],
+			[
+				"ACM_SuctionBag",
+				5
+			],
+			[
+				"ACM_Inhaler_Penthrox",
+				1,
+				8
+			],
+			[
+				"ACM_AmmoniaInhalant",
+				2,
+				8
+			],
+			[
+				"ACM_Paracetamol",
+				2,
+				10
+			]
+		]
+	],
+	"H_HelmetB",
+	"",
+	[],
+	[
+		"ItemMap",
+		"",
+		"TFAR_rf7800str",
+		"ItemCompass",
+		"TFAR_microdagr",
+		""
+	]
 ]
